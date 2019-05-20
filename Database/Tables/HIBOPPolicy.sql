@@ -1,0 +1,29 @@
+IF NOT EXISTS ( SELECT 'X' FROM SYSOBJECTS WHERE XTYPE='U' AND NAME = 'HIBOPPolicy')
+BEGIN	
+	CREATE TABLE HIBOPPolicy
+	(
+		UniqPolicy				INT NOT NULL,
+		UniqEntity				INT NOT NULL,
+		UniqAgency				INT ,
+		UniqBranch				INT,
+		DescriptionOf			VARCHAR(125),
+		UniqCdPolicyLineType	INT	,
+		PolicyNumber			VARCHAR(25),
+		EffectiveDate			DATETIME	,
+		ExpirationDate			DATETIME,
+		PolicyStatus			VARCHAR(20),
+		Flags					INT,
+		InsertedDate			DATETIME,
+		UpdatedDate				DATETIME
+	)
+END
+
+IF NOT EXISTS (SELECT 'X' FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'HIBOPPolicy' AND COLUMN_NAME = 'UniqDepartment')
+BEGIN
+	ALTER TABLE HIBOPPolicy ADD UniqDepartment INT NULL
+END
+
+IF EXISTS (SELECT 'X' FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'HIBOPPolicy' AND COLUMN_NAME = 'DescriptionOf')
+BEGIN
+	ALTER TABLE HIBOPPolicy Alter Column DescriptionOf VARCHAR(125) NULL
+END

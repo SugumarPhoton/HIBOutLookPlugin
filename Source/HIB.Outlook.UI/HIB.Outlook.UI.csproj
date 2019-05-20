@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\SQLite.3.13.0\build\net45\SQLite.props" Condition="Exists('..\packages\SQLite.3.13.0\build\net45\SQLite.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <!--
+    This section defines project-level properties.
+
+    AssemblyName
+      Name of the output assembly.
+    Configuration
+      Specifies a default value for debug.
+    OutputType
+      Must be "Library" for VSTO.
+    Platform
+      Specifies what CPU the output of this project can run on.
+    NoStandardLibraries
+      Set to "false" for VSTO.
+    RootNamespace
+      In C#, this specifies the namespace given to new files. In VB, all objects are
+      wrapped in this namespace at runtime.
+  -->
+  <PropertyGroup>
+    <ProjectTypeGuids>{BAA0C2D2-18E2-41B9-852F-F413020CAA33};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{45401733-9F5F-498E-98AF-41583F613375}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <RootNamespace>OutlookAddIn1</RootNamespace>
+    <AssemblyName>PeoplePaneRegion</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <DefineConstants>VSTO40</DefineConstants>
+    <IsWebBootstrapper>False</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <PublishUrl>C:\HIB.Outlook.LocalPublish\</PublishUrl>
+    <InstallUrl />
+    <TargetCulture>en</TargetCulture>
+    <ApplicationVersion>7.0.0.2</ApplicationVersion>
+    <AutoIncrementApplicationRevision>false</AutoIncrementApplicationRevision>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>days</UpdateIntervalUnits>
+    <ProductName>HGITS Outlook Attachment Plugin</ProductName>
+    <PublisherName>HG IT Services</PublisherName>
+    <SupportUrl />
+    <FriendlyName>HGITS Outlook Attachment Plugin</FriendlyName>
+    <OfficeApplicationDescription />
+    <LoadBehavior>16</LoadBehavior>
+  </PropertyGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VSTORuntime.4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Studio 2010 Tools for Office Runtime %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <PropertyGroup>
+    <!--
+      OfficeApplication
+        Add-in host application
+    -->
+    <OfficeApplication>Outlook</OfficeApplication>
+  </PropertyGroup>
+  <!--
+    This section defines properties that are set when the "Debug" configuration is selected.
+
+    DebugSymbols
+      If "true", create symbols (.pdb). If "false", do not create symbols.
+    DefineConstants
+      Constants defined for the preprocessor.
+    EnableUnmanagedDebugging
+      If "true", starting the debugger will attach both managed and unmanaged debuggers.
+    Optimize
+      If "true", optimize the build output. If "false", do not optimize.
+    OutputPath
+      Output path of project relative to the project file.
+    WarningLevel
+      Warning level for the compiler.
+  -->
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <DefineConstants>$(DefineConstants);DEBUG;TRACE</DefineConstants>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <!--
+    This section defines properties that are set when the "Release" configuration is selected.
+
+    DebugSymbols
+      If "true", create symbols (.pdb). If "false", do not create symbols.
+    DefineConstants
+      Constants defined for the preprocessor.
+    EnableUnmanagedDebugging
+      If "true", starting the debugger will attach both managed and unmanaged debuggers.
+    Optimize
+      If "true", optimize the build output. If "false", do not optimize.
+    OutputPath
+      Output path of project relative to the project file.
+    WarningLevel
+      Warning level for the compiler.
+  -->
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <DefineConstants>$(DefineConstants);TRACE</DefineConstants>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <!--
+    This section specifies references for the project.
+  -->
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="AddinExpress.Outlook.Regions, Version=3.3.2435.2010, Culture=neutral, PublicKeyToken=e69a7e0f3592d2b8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Notifications, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Notifications.1.0.1\lib\net45\Notifications.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="PresentationFramework.Aero" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.106.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.106.0\lib\net451\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.106.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.106.0\lib\net451\System.Data.SQLite.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.106.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.106.0\lib\net451\System.Data.SQLite.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Tools.v4.0.Framework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualStudio.Tools.Applications.Runtime, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools.Outlook, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Outlook.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <Private>False</Private>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <Private>False</Private>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <!--
+    This section defines the user source files that are part of the project.
+     
+    A "Compile" element specifies a source file to compile.
+    An "EmbeddedResource" element specifies an .resx file for embedded resources.
+    A "None" element specifies a file that is not to be passed to the compiler (for instance, 
+    a text file or XML file).
+    The "AppDesigner" element specifies the directory where the application properties files
+    can be found.
+  -->
+  <ItemGroup>
+    <Compile Include="AttachmentControl.xaml.cs">
+      <DependentUpon>AttachmentControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Common.cs" />
+    <Compile Include="Common\SelectedEmailInfo.cs" />
+    <Compile Include="Converter\BoolToVisibilityConverter.cs" />
+    <Compile Include="Converter\WidthConverters.cs" />
+    <Compile Include="FormsManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PushToEpicFormRegion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PushToEpicFormRegion.Designer.cs">
+      <DependentUpon>PushToEpicFormRegion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\AddActivityFirstPage.xaml.cs">
+      <DependentUpon>AddActivityFirstPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\AddActivityMainPage.xaml.cs">
+      <DependentUpon>AddActivityMainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\AddActivitySecondPage.xaml.cs">
+      <DependentUpon>AddActivitySecondPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\AttachToEpic.cs" />
+    <Compile Include="UserControls\AttachToEpicMainPage.xaml.cs">
+      <DependentUpon>AttachToEpicMainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ConfirmationUser.xaml.cs">
+      <DependentUpon>ConfirmationUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FailedAttachments.xaml.cs">
+      <DependentUpon>FailedAttachments.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MultipleEmailAttachment.xaml.cs">
+      <DependentUpon>MultipleEmailAttachment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PolicyTypeList.xaml.cs">
+      <DependentUpon>PolicyTypeList.xaml</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="App_Data\HIBOutlook.db" />
+    <None Include="hgit.pfx" />
+    <None Include="HIB.Outlook.UI_1_TemporaryKey.pfx" />
+    <None Include="HIB.Outlook.UI_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SQLite\SQLiteHandler.cs" />
+    <Compile Include="ThisAddIn.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <None Include="ThisAddIn.Designer.xml">
+      <DependentUpon>ThisAddIn.cs</DependentUpon>
+    </None>
+    <Compile Include="ThisAddIn.Designer.cs">
+      <DependentUpon>ThisAddIn.Designer.xml</DependentUpon>
+    </Compile>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\add-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\add-new%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\assist-green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\assist-grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\attach-and-delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\attach-and-delete%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\attach-and-delete%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\attach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\attach%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\attach%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\bookmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\bookmark%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\bookmark_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\bookmark_Highlighted%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\cancel-btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\cancel%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\continue-btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\done%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\favourite-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\favourite-list%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\filter-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\filter-icon%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\finish-btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\group-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\group-1%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\group-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\group-2%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\IsCheckedX2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\minimize%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\push-pin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\push-pin%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\refresh-data.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\refresh-data%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\reset-all.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\reset-all%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\rounded-rectangle-1-copy%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\search%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\tooltip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\UncheckX2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\x-mark-10-copy-2%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="AttachmentControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\AddActivityFirstPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\AddActivityMainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\AddActivitySecondPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\AttachToEpicMainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ConfirmationUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\FailedAttachments.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\MultipleEmailAttachment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\PolicyTypeList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HIB.Outlook.CustomControls\HIB.Outlook.CustomControls.csproj">
+      <Project>{ce8f315d-0e0f-4071-a1aa-ad3229895817}</Project>
+      <Name>HIB.Outlook.CustomControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HIB.Outlook.Helper\HIB.Outlook.Helper.csproj">
+      <Project>{C8B23BDD-86F9-45E7-AD38-DC006BE96E7C}</Project>
+      <Name>HIB.Outlook.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HIB.Outlook.Model\HIB.Outlook.Model.csproj">
+      <Project>{3ce5343d-5cd0-4182-bcac-36862a85ac9a}</Project>
+      <Name>HIB.Outlook.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HIB.Outlook.SQLite\HIB.Outlook.SQLite.csproj">
+      <Project>{89cb4268-6b88-48c5-8e15-775eebbdafa5}</Project>
+      <Name>HIB.Outlook.SQLite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HIB.Outlook.Sync\HIB.Outlook.Sync.csproj">
+      <Project>{307b3c95-03cb-4ad7-9f86-71da18cac1af}</Project>
+      <Name>HIB.Outlook.Sync</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\attach-only.png" />
+    <Resource Include="Asset\attach-and-delete-only.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\fav-close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\searchbox_clear.png" />
+    <Resource Include="Asset\textbox_search.png" />
+    <Resource Include="Asset\add%402x.png" />
+    <Resource Include="Asset\message_preview.png" />
+    <Resource Include="Asset\linkedin.png" />
+    <Resource Include="Asset\twitter.png" />
+    <Resource Include="Asset\facebook.png" />
+    <EmbeddedResource Include="PushToEpicFormRegion.resx">
+      <DependentUpon>PushToEpicFormRegion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\AttachToEpic.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Resources\attach_to_epic.png" />
+    <Resource Include="Asset\email_image.png" />
+    <Resource Include="Asset\applyToAll.png" />
+    <Resource Include="Asset\outlook_preview.PNG" />
+    <Resource Include="Asset\email_image_selected.png" />
+    <Resource Include="Asset\attach_all.png" />
+    <Resource Include="Asset\attach_and_delete_all.png" />
+    <Resource Include="Asset\close_icon.png" />
+    <None Include="Resources\icon_16x16.ico" />
+    <Resource Include="Asset\delete-icon.png" />
+    <Resource Include="Asset\alert.png" />
+    <Content Include="Asset\icon_16x16.ico" />
+    <Resource Include="Asset\notification.png" />
+    <Resource Include="Asset\reset.png" />
+    <Content Include="x64\SQLite.Interop.dll" />
+    <Content Include="x86\SQLite.Interop.dll" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>hgit.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>EA6C59582503367C5B49D879DE611F0FA98C6030</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup />
+  <!-- Include the build rules for a C# project. -->
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- Include additional build rules for an Office application add-in. -->
+  <Import Project="$(VSToolsPath)\OfficeTools\Microsoft.VisualStudio.Tools.Office.targets" Condition="'$(VSToolsPath)' != ''" />
+  <!-- This section defines VSTO properties that describe the host-changeable project properties. -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{BAA0C2D2-18E2-41B9-852F-F413020CAA33}">
+        <ProjectProperties HostName="Outlook" HostPackage="{29A7B9D7-A7F1-4328-8EF0-6B2D1A56B2C1}" OfficeVersion="15.0" VstxVersion="4.0" ApplicationType="Outlook" Language="cs" TemplatesPath="" DebugInfoExeName="#Software\Microsoft\Office\15.0\Outlook\InstallRoot\Path#outlook.exe" AddItemTemplatesGuid="{A58A78EB-1C92-4DDD-80CF-E8BD872ABFC4}" />
+        <Host Name="Outlook" GeneratedCodeNamespace="AttachmentBridge" PublishedHash="69C324AB27932AA2FBF2B7EA72250886FF164DE6" IconIndex="0">
+          <HostItem Name="ThisAddIn" Code="ThisAddIn.cs" CanonicalName="AddIn" PublishedHash="8252E65A573D5326BFFAAD8F94F95DE5A3F57C10" CanActivate="false" IconIndex="1" Blueprint="ThisAddIn.Designer.xml" GeneratedCode="ThisAddIn.Designer.cs" />
+        </Host>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\SQLite.3.13.0\build\net45\SQLite.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\SQLite.3.13.0\build\net45\SQLite.props'))" />
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.105.2\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.105.2\build\net451\System.Data.SQLite.Core.targets'))" />
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.106.0\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.106.0\build\net451\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.105.2\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.105.2\build\net451\System.Data.SQLite.Core.targets')" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.106.0\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.106.0\build\net451\System.Data.SQLite.Core.targets')" />
+</Project>

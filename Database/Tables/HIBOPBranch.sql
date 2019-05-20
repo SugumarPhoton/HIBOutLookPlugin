@@ -1,0 +1,13 @@
+IF NOT EXISTS ( SELECT 'X' FROM SYSOBJECTS WHERE XTYPE='U' AND NAME = 'HIBOPBranch')
+BEGIN	
+	CREATE TABLE HIBOPBranch
+	(
+	UniqBranch INT NOT NULL,
+	BranchCode VARCHAR(10) NOT NULL,
+	BranchName VARCHAR(100),
+	LicenceNumber VARCHAR(15),
+	Flags		INT,
+	InsertedDate DATETIME NOT NULL,
+	UpdatedDate DATETIME
+	)
+END

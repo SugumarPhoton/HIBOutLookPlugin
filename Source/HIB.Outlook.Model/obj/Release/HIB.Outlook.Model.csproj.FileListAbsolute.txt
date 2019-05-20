@@ -1,0 +1,33 @@
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.csproj.CoreCompileInputs.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Model\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Model\obj\Release\HIB.Outlook.Model.pdb

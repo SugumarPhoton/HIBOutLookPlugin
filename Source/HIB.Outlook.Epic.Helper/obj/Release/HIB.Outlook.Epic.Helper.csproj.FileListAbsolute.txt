@@ -1,0 +1,70 @@
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\bin\Release\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Epic.Helper\obj\Release\HIB.Outlook.Epic.Helper.pdb

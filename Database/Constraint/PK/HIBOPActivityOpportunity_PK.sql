@@ -1,0 +1,11 @@
+
+IF EXISTS ( SELECT 'X' FROM SYSOBJECTS WHERE XTYPE='PK' AND NAME ='HIBOPActivityOpportunity_PK')
+BEGIN
+	ALTER TABLE HIBOPActivityOpportunity DROP CONSTRAINT HIBOPActivityOpportunity_PK;
+END
+GO
+ALTER TABLE HIBOPActivityOpportunity
+ADD CONSTRAINT HIBOPActivityOpportunity_PK PRIMARY KEY CLUSTERED  (UniqOpportunity);
+GO
+
+

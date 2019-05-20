@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HIBOutlookModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="HIBOutlookEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="HIBOPEpicSyncClient_SP" />
+    <FunctionImport Name="HIBOPEpicSyncPolicyLineType_SP" ReturnType="Collection(String)" />
+    <FunctionImport Name="HIBOPGetLogDetails_SP">
+      <Parameter Name="UniqId" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPLogInsert_SP">
+      <Parameter Name="UniqId" Mode="In" Type="String" />
+      <Parameter Name="UniqEntity" Mode="In" Type="Int32" />
+      <Parameter Name="UniqActivity" Mode="In" Type="Int32" />
+      <Parameter Name="PolicyYear" Mode="In" Type="Int32" />
+      <Parameter Name="PolicyTypeCode" Mode="In" Type="String" />
+      <Parameter Name="DescritionLookUpId" Mode="In" Type="Int32" />
+      <Parameter Name="Description" Mode="In" Type="String" />
+      <Parameter Name="FolderId" Mode="In" Type="Int32" />
+      <Parameter Name="SubFolder1Id" Mode="In" Type="Int32" />
+      <Parameter Name="SubFolder2Id" Mode="In" Type="Int32" />
+      <Parameter Name="ClientAccessibleDate" Mode="In" Type="DateTime" />
+      <Parameter Name="Status" Mode="In" Type="Int32" />
+      <Parameter Name="CreatedBy" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPSynzClientToLocal_SP" ReturnType="Collection(HIBOutlookModel.HIBOPSynzClientToLocal_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="Int32" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetPolicyLineType_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetPolicyLineType_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPSyncErrorLogToLocal_SP" ReturnType="Collection(HIBOutlookModel.HIBOPSyncErrorLogToLocal_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPSyncFavouriteToCentralized_SP">
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPSyncFavouriteToLocal_SP">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPSyncAuditLogToLocal_SP" ReturnType="Collection(HIBOutlookModel.HIBOPSyncAuditLogToLocal_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPSyncAuditLogToCentralized_SP" />
+    <FunctionImport Name="HIBOPSyncErrorLogToCenterlized_SP" />
+    <FunctionImport Name="HIBOPGetActivityOwnerList_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityOwnerList_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSynDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+      <Parameter Name="RowsPerPage" Mode="In" Type="Int32" />
+      <Parameter Name="PageNumber" Mode="In" Type="Int32" />
+      <Parameter Name="RowCount" Mode="InOut" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetFolders_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetFolders_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityClientContacts_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityClientContacts_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityLookupDetails_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityLookupDetails_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityTransaction_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityTransaction_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityBill_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityBill_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityCarrierSubmission_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityCarrierSubmission_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityCertificate_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityCertificate_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityEvidence_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityEvidence_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetCommonLookUp_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetCommonLookUp_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetEmployeeAgency_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetEmployeeAgency_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetClientEmployee_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetClientEmployee_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+      <Parameter Name="RowsPerPage" Mode="In" Type="Int32" />
+      <Parameter Name="PageNumber" Mode="In" Type="Int32" />
+      <Parameter Name="RowCount" Mode="InOut" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetEmployee_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetEmployee_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityList_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityList_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetClientDetails_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetClientDetails_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+      <Parameter Name="RowsPerPage" Mode="In" Type="Int32" />
+      <Parameter Name="PageNumber" Mode="In" Type="Int32" />
+      <Parameter Name="RowCount" Mode="InOut" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityDetails_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityDetails_SP_Result)">
+      <Parameter Name="EmployeeLookupCode" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+      <Parameter Name="RowsPerPage" Mode="In" Type="Int32" />
+      <Parameter Name="PageNumber" Mode="In" Type="Int32" />
+      <Parameter Name="RowCount" Mode="InOut" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityAccount_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityAccount_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+      <Parameter Name="RowsPerPage" Mode="In" Type="Int32" />
+      <Parameter Name="PageNumber" Mode="In" Type="Int32" />
+      <Parameter Name="RowCount" Mode="InOut" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityEmployee_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityEmployee_SP_Result)">
+      <Parameter Name="EmployeeLookupCode" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+      <Parameter Name="RowsPerPage" Mode="In" Type="Int32" />
+      <Parameter Name="PageNumber" Mode="In" Type="Int32" />
+      <Parameter Name="RowCount" Mode="InOut" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityPolicy_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityPolicy_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+      <Parameter Name="RowsPerPage" Mode="In" Type="Int32" />
+      <Parameter Name="PageNumber" Mode="In" Type="Int32" />
+      <Parameter Name="RowCount" Mode="InOut" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityClaim_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityClaim_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityMarketing_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityMarketing_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityServices_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityServices_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityOpportunity_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityOpportunity_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetActivityLine_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetActivityLine_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="LastSyncDate" Mode="In" Type="DateTime" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+      <Parameter Name="RowsPerPage" Mode="In" Type="Int32" />
+      <Parameter Name="PageNumber" Mode="In" Type="Int32" />
+      <Parameter Name="RowCount" Mode="InOut" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPSyncIntervalMinutes" ReturnType="Collection(HIBOutlookModel.HIBOPSyncIntervalMinutes_Result)">
+      <Parameter Name="IntervalMinutes" Mode="InOut" Type="Int32" />
+      <Parameter Name="ClientActIntervalMinutes" Mode="InOut" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="HIBOPGetDeltaSync_SP" ReturnType="Collection(HIBOutlookModel.HIBOPGetDeltaSync_SP_Result)">
+      <Parameter Name="User" Mode="In" Type="String" />
+      <Parameter Name="IPAddress" Mode="In" Type="String" />
+      <Parameter Name="Is_Client" Mode="In" Type="Boolean" />
+      <Parameter Name="Is_FirstSync" Mode="In" Type="Boolean" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="HIBOPSynzClientToLocal_SP_Result">
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="String" Name="LookupCode" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="NameOf" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Address" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PrimaryContactName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Status" Nullable="true" MaxLength="8" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetPolicyLineType_SP_Result">
+    <Property Type="String" Name="CdPolicyLineTypeCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="PolicyLineTypeDesc" Nullable="true" MaxLength="125" />
+    <Property Type="Int32" Name="UniqCdPolicyLineType" Nullable="true" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPSyncErrorLogToLocal_SP_Result">
+    <Property Type="String" Name="Source" Nullable="true" MaxLength="256" />
+    <Property Type="Int32" Name="Thread" Nullable="true" />
+    <Property Type="String" Name="Level" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Logger" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Message" Nullable="true" MaxLength="4000" />
+    <Property Type="String" Name="Exception" Nullable="true" MaxLength="4000" />
+    <Property Type="String" Name="LoggedBy" Nullable="false" MaxLength="10" />
+    <Property Type="DateTime" Name="LogDate" Nullable="false" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPSyncAuditLogToLocal_SP_Result">
+    <Property Type="String" Name="UniqId" Nullable="false" MaxLength="125" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="String" Name="ClientLookupCode" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="ClientName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="PrimaryContactName" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="UniqActivity" Nullable="false" />
+    <Property Type="String" Name="ActivityCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="DescriptionOf" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="PolicyNumber" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="PolicyYear" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="PolicyType" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DescriptionType" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Description" Nullable="true" MaxLength="500" />
+    <Property Type="Int32" Name="FolderId" Nullable="true" />
+    <Property Type="String" Name="FolderNameF" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="SubFolder1Id" Nullable="true" />
+    <Property Type="String" Name="FolderNameF1" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="SubFolder2Id" Nullable="true" />
+    <Property Type="String" Name="FolderNameF2" Nullable="false" MaxLength="100" />
+    <Property Type="DateTime" Name="ClientAccessibleDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="EmailAction" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="Version" Nullable="false" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityOwnerList_SP_Result">
+    <Property Type="String" Name="Lookupcode" Nullable="true" MaxLength="6" />
+    <Property Type="String" Name="EmployeeName" Nullable="true" MaxLength="125" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetFolders_SP_Result">
+    <Property Type="Int32" Name="FolderId" Nullable="false" />
+    <Property Type="Int32" Name="ParentFolderId" Nullable="false" />
+    <Property Type="String" Name="FolderName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="FolderType" Nullable="false" MaxLength="20" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityClientContacts_SP_Result">
+    <Property Type="Int32" Name="ClientContactId" Nullable="false" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="Int32" Name="UniqContactName" Nullable="false" />
+    <Property Type="Int32" Name="UniqContactNumber" Nullable="true" />
+    <Property Type="String" Name="ContactName" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="ContactType" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="ContactValue" Nullable="true" MaxLength="200" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityLookupDetails_SP_Result">
+    <Property Type="Int32" Name="ALDId" Nullable="false" />
+    <Property Type="Int32" Name="UniqLine" Nullable="false" />
+    <Property Type="Int32" Name="UniqPolicy" Nullable="false" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="Int32" Name="UniqClaim" Nullable="true" />
+    <Property Type="String" Name="LineCode" Nullable="false" MaxLength="4" />
+    <Property Type="String" Name="PolicyType" Nullable="false" MaxLength="4" />
+    <Property Type="String" Name="Linedescription" Nullable="false" />
+    <Property Type="String" Name="PolicyNumber" Nullable="false" MaxLength="25" />
+    <Property Type="String" Name="PolicyDesc" Nullable="false" MaxLength="125" />
+    <Property Type="Int32" Name="UniqCdPolicyLineType" Nullable="false" />
+    <Property Type="Int32" Name="UniqCdLineStatus" Nullable="false" />
+    <Property Type="DateTime" Name="LineExpDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="LineEffDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="PolicyExpDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="PolicyEffDate" Nullable="false" Precision="23" />
+    <Property Type="Int32" Name="ClaimNumber" Nullable="true" />
+    <Property Type="String" Name="CompanyClaimNumber" Nullable="true" MaxLength="25" />
+    <Property Type="DateTime" Name="DateLoss" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="ClosedDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="LookupCode" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="AccountName" Nullable="false" MaxLength="100" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="UniqClaimAssociation" Nullable="true" />
+    <Property Type="String" Name="IOC" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="IOCCode" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="AttachmentDesc" Nullable="true" MaxLength="125" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityTransaction_SP_Result">
+    <Property Type="Int32" Name="TransactionId" Nullable="false" />
+    <Property Type="Int32" Name="UniqTranshead" Nullable="true" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="true" />
+    <Property Type="Int32" Name="InvoiceNumber" Nullable="true" />
+    <Property Type="String" Name="Code" Nullable="true" MaxLength="6" />
+    <Property Type="String" Name="DescriptionOf" Nullable="true" MaxLength="125" />
+    <Property Type="Decimal" Name="Amount" Nullable="true" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="Balance" Nullable="true" Precision="19" Scale="4" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityBill_SP_Result">
+    <Property Type="Int32" Name="BillId" Nullable="false" />
+    <Property Type="Int32" Name="UniqTranshead" Nullable="true" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="true" />
+    <Property Type="Int32" Name="BillNumber" Nullable="true" />
+    <Property Type="Int32" Name="UniqAgency" Nullable="true" />
+    <Property Type="String" Name="AgencyName" Nullable="true" MaxLength="100" />
+    <Property Type="Decimal" Name="Amount" Nullable="true" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="Balance" Nullable="true" Precision="19" Scale="4" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityCarrierSubmission_SP_Result">
+    <Property Type="Int32" Name="CarrierSubmissionId" Nullable="false" />
+    <Property Type="Int32" Name="UniqCarrierSubmission" Nullable="true" />
+    <Property Type="String" Name="Carrier" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="CarrierSubmission" Nullable="true" MaxLength="125" />
+    <Property Type="Int32" Name="UniqMarketingSubmission" Nullable="true" />
+    <Property Type="String" Name="MarkettingSubmission" Nullable="true" MaxLength="125" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="true" />
+    <Property Type="DateTime" Name="LastSubmittedDate" Nullable="true" Precision="23" />
+    <Property Type="Decimal" Name="RequestedPremium" Nullable="true" Precision="19" Scale="4" />
+    <Property Type="String" Name="SubmissionStatus" Nullable="true" MaxLength="70" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityCertificate_SP_Result">
+    <Property Type="Int32" Name="UniqCertificate" Nullable="false" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="String" Name="Title" Nullable="true" MaxLength="125" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityEvidence_SP_Result">
+    <Property Type="Int32" Name="UniqEvidence" Nullable="false" />
+    <Property Type="Int32" Name="UniqEntityClient" Nullable="false" />
+    <Property Type="String" Name="Title" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="FormEditionDate" Nullable="false" MaxLength="6" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetCommonLookUp_SP_Result">
+    <Property Type="Int32" Name="CommonLkpId" Nullable="false" />
+    <Property Type="String" Name="CommonLkpTypeCode" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="CommonLkpCode" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="CommonLkpName" Nullable="false" MaxLength="500" />
+    <Property Type="String" Name="CommonLkpDescription" Nullable="true" MaxLength="1000" />
+    <Property Type="Int32" Name="SortOrder" Nullable="true" />
+    <Property Type="Boolean" Name="IsDeleted" Nullable="false" />
+    <Property Type="DateTime" Name="CreatedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetEmployeeAgency_SP_Result">
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="String" Name="EmployeeName" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="LookupCode" Nullable="true" MaxLength="6" />
+    <Property Type="Int32" Name="UniqAgency" Nullable="false" />
+    <Property Type="String" Name="AgencyCode" Nullable="true" MaxLength="3" />
+    <Property Type="String" Name="AgencyName" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="UniqBranch" Nullable="false" />
+    <Property Type="String" Name="BranchCode" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="BranchName" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="UniqDepartment" Nullable="false" />
+    <Property Type="String" Name="DepartmentCode" Nullable="true" MaxLength="3" />
+    <Property Type="String" Name="DepartmentName" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="UniqProfitCenter" Nullable="false" />
+    <Property Type="String" Name="ProfitCenterCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="ProfitCenterName" Nullable="true" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetClientEmployee_SP_Result">
+    <Property Type="Int32" Name="ClientId" Nullable="false" />
+    <Property Type="Int32" Name="UserId" Nullable="false" />
+    <Property Type="String" Name="EmployeeLookupcode" Nullable="true" MaxLength="6" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetEmployee_SP_Result">
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="String" Name="LookupCode" Nullable="true" MaxLength="6" />
+    <Property Type="String" Name="EmployeeName" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="Department" Nullable="true" MaxLength="60" />
+    <Property Type="String" Name="JobTitle" Nullable="true" MaxLength="60" />
+    <Property Type="DateTime" Name="InactiveDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="RoleFlags" Nullable="true" />
+    <Property Type="Int32" Name="Flags" Nullable="true" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="IsAdmin" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityList_SP_Result">
+    <Property Type="Int32" Name="UniqActivityCode" Nullable="false" />
+    <Property Type="String" Name="ActivityCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="ActivityName" Nullable="true" MaxLength="125" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="lookupCode" Nullable="true" MaxLength="6" />
+    <Property Type="String" Name="EmployeeName" Nullable="true" MaxLength="125" />
+    <Property Type="Int32" Name="ISClosedStatus" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetClientDetails_SP_Result">
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="String" Name="LookupCode" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="NameOf" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Address" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="City" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="StateCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="StateName" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="PostalCode" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="CountryCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="Country" Nullable="true" MaxLength="125" />
+    <Property Type="Int32" Name="UniqAgency" Nullable="false" />
+    <Property Type="String" Name="AgencyCode" Nullable="true" MaxLength="400" />
+    <Property Type="String" Name="AgencyName" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PrimaryContactName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Status" Nullable="false" MaxLength="8" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityDetails_SP_Result">
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="Int32" Name="UniqActivity" Nullable="false" />
+    <Property Type="Int32" Name="UniqActivityCode" Nullable="true" />
+    <Property Type="String" Name="ActivityCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="DescriptionOf" Nullable="true" MaxLength="125" />
+    <Property Type="Int32" Name="UniqCdPolicyLineType" Nullable="true" />
+    <Property Type="String" Name="CdPolicyLineTypeCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="PolicyNumber" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="EffectiveDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="ExpirationDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="Status" Nullable="false" MaxLength="6" />
+    <Property Type="Int32" Name="UniqAgency" Nullable="true" />
+    <Property Type="Int32" Name="UniqBranch" Nullable="true" />
+    <Property Type="Int32" Name="UniqDepartment" Nullable="true" />
+    <Property Type="Int32" Name="UniqProfitCenter" Nullable="true" />
+    <Property Type="Int32" Name="UniqAssociatedItem" Nullable="true" />
+    <Property Type="String" Name="AssociationType" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="OwnerName" Nullable="true" MaxLength="125" />
+    <Property Type="DateTime" Name="ClosedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="UniqPolicy" Nullable="true" />
+    <Property Type="Int32" Name="UniqLine" Nullable="true" />
+    <Property Type="Int32" Name="UniqClaim" Nullable="true" />
+    <Property Type="DateTime" Name="LossDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="Policydescription" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="LineCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="LineDescription" Nullable="true" />
+    <Property Type="String" Name="ICO" Nullable="true" MaxLength="6" />
+    <Property Type="DateTime" Name="LineEffectiveDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="LineExpirationDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityAccount_SP_Result">
+    <Property Type="Int32" Name="AccountId" Nullable="false" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="true" />
+    <Property Type="Int32" Name="UniqAgency" Nullable="true" />
+    <Property Type="String" Name="AgencyCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="AgencyName" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="UniqBranch" Nullable="true" />
+    <Property Type="String" Name="BranchCode" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="BranchName" Nullable="true" MaxLength="100" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityEmployee_SP_Result">
+    <Property Type="Int32" Name="UniqEmployee" Nullable="false" />
+    <Property Type="String" Name="EmployeeLookupcode" Nullable="false" MaxLength="2" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="Int32" Name="UniqActivity" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityPolicy_SP_Result">
+    <Property Type="String" Name="EmployeeLookUpCode" Nullable="true" MaxLength="10" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="String" Name="CdPolicyLineTypeCode" Nullable="false" MaxLength="4" />
+    <Property Type="Int32" Name="UniqPolicy" Nullable="false" />
+    <Property Type="String" Name="PolicyNumber" Nullable="true" MaxLength="25" />
+    <Property Type="String" Name="DescriptionOf" Nullable="true" MaxLength="120" />
+    <Property Type="DateTime" Name="EffectiveDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="ExpirationDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="PolicyStatus" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="Status" Nullable="false" MaxLength="8" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="Flags" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityClaim_SP_Result">
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="Int32" Name="UniqClaim" Nullable="false" />
+    <Property Type="String" Name="ClaimCode" Nullable="true" MaxLength="5" />
+    <Property Type="String" Name="ClaimName" Nullable="true" MaxLength="125" />
+    <Property Type="DateTime" Name="LossDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="ReportedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="AgencyClaimNumber" Nullable="true" />
+    <Property Type="String" Name="CompanyClaimNumber" Nullable="true" MaxLength="25" />
+    <Property Type="DateTime" Name="ClosedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="Flags" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityMarketing_SP_Result">
+    <Property Type="Int32" Name="UniqMarketingSubmission" Nullable="false" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="true" />
+    <Property Type="Int32" Name="UniqAgency" Nullable="true" />
+    <Property Type="Int32" Name="UniqBranch" Nullable="true" />
+    <Property Type="String" Name="MarketingSubbmission" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="LineOfBusiness" Nullable="true" MaxLength="200" />
+    <Property Type="DateTime" Name="EffectiveDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="ExpirationDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="LastSubmittedDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="Status" Nullable="false" MaxLength="8" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="Flags" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityServices_SP_Result">
+    <Property Type="Int32" Name="UniqServiceHead" Nullable="true" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="Int16" Name="ServiceNumber" Nullable="true" />
+    <Property Type="String" Name="UniqCdServiceCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="Description" Nullable="true" />
+    <Property Type="String" Name="ContractNumber" Nullable="true" MaxLength="125" />
+    <Property Type="DateTime" Name="InceptionDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="ExpirationDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="Status" Nullable="false" MaxLength="8" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="Flags" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityOpportunity_SP_Result">
+    <Property Type="Int32" Name="UniqOpportunity" Nullable="false" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="false" />
+    <Property Type="String" Name="OppDesc" Nullable="true" MaxLength="125" />
+    <Property Type="DateTime" Name="TargetedDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="OwnerName" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="SalesManager" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="Stage" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="Status" Nullable="false" MaxLength="8" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="Flags" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetActivityLine_SP_Result">
+    <Property Type="Int32" Name="UniqLine" Nullable="true" />
+    <Property Type="Int32" Name="UniqPolicy" Nullable="true" />
+    <Property Type="Int32" Name="UniqEntity" Nullable="true" />
+    <Property Type="String" Name="PolicyType" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="PolicyDesc" Nullable="true" MaxLength="125" />
+    <Property Type="String" Name="LineCode" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="LineOfBusiness" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="LineStatus" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PolicyNumber" Nullable="true" MaxLength="25" />
+    <Property Type="Int32" Name="UniqCdPolicyLineType" Nullable="true" />
+    <Property Type="Int32" Name="UniqCdLineStatus" Nullable="true" />
+    <Property Type="String" Name="IOC" Nullable="true" MaxLength="6" />
+    <Property Type="String" Name="BillModeCode" Nullable="true" MaxLength="1" />
+    <Property Type="DateTime" Name="ExpirationDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="EffectiveDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="Status" Nullable="true" MaxLength="20" />
+    <Property Type="DateTime" Name="InsertedDate" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="UpdatedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="Flags" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="HIBOPSyncIntervalMinutes_Result">
+    <Property Type="Int32" Name="IntervalMinutes" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="HIBOPGetDeltaSync_SP_Result">
+    <Property Type="String" Name="IPAddress" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="UserLookupCode" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="SpName" Nullable="true" MaxLength="256" />
+    <Property Type="DateTime" Name="LastSyncDate" Nullable="true" Precision="23" />
+    <Property Type="Boolean" Name="IsDeltaFlag" Nullable="true" />
+  </ComplexType>
+</Schema>

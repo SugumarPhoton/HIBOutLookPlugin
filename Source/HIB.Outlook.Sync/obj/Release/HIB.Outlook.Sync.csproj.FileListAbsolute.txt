@@ -1,0 +1,186 @@
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\x86\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\x64\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.EF6.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.Linq.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csprojResolveAssemblyReference.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CopyComplete
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\x86\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\x64\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.EF6.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.Linq.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csprojResolveAssemblyReference.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\bin\Release\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.Sync\obj\Release\HIB.Outlook.Sync.pdb

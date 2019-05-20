@@ -1,0 +1,427 @@
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\csc.exe
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\vbc.exe
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll.config
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\CommonServiceLocator.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\log4net.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Swashbuckle.Core.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Cors.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Abstractions.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Configuration.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Container.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.WebApi.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\WebActivatorEx.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\CommonServiceLocator.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\log4net.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Abstractions.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Configuration.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Container.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csprojResolveAssemblyReference.cache
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\csc.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\vbc.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\CommonServiceLocator.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Swashbuckle.Core.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Abstractions.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Container.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.WebApi.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\WebActivatorEx.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\CommonServiceLocator.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Abstractions.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Container.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\csc.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\vbc.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\CommonServiceLocator.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Swashbuckle.Core.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Abstractions.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Container.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.WebApi.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\WebActivatorEx.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\CommonServiceLocator.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Abstractions.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Container.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\csc.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\vbc.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\CommonServiceLocator.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Swashbuckle.Core.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Abstractions.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Container.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Interception.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.WebApi.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\WebActivatorEx.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\CommonServiceLocator.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Abstractions.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Container.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Interception.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\csc.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\vbc.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\CommonServiceLocator.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Swashbuckle.Core.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Abstractions.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Container.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Interception.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.WebApi.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\WebActivatorEx.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\CommonServiceLocator.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Abstractions.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Container.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Interception.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\csc.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\vbc.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.API.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\CommonServiceLocator.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Swashbuckle.Core.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\System.Web.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\System.Web.Http.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Abstractions.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Container.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Interception.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.WebApi.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\WebActivatorEx.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\CommonServiceLocator.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\System.Web.Http.Cors.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Abstractions.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Container.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Interception.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.Interception.Configuration.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.RegistrationByConvention.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\Unity.ServiceLocation.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\System.Net.Http.Formatting.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\System.Web.Http.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\System.Web.Http.WebHost.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\bin\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.API\obj\Release\HIB.Outlook.API.pdb

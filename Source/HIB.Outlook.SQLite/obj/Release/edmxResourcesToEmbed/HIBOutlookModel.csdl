@@ -1,0 +1,1003 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HIBOutlookModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="HIBOutlookEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="HIBOPActivityAccounts" EntityType="HIBOutlookModel.HIBOPActivityAccount" />
+    <EntitySet Name="HIBOPActivityBills" EntityType="HIBOutlookModel.HIBOPActivityBill" />
+    <EntitySet Name="HIBOPActivityCertificates" EntityType="HIBOutlookModel.HIBOPActivityCertificate" />
+    <EntitySet Name="HIBOPActivityClientContacts" EntityType="HIBOutlookModel.HIBOPActivityClientContact" />
+    <EntitySet Name="HIBOPActivityEvidences" EntityType="HIBOutlookModel.HIBOPActivityEvidence" />
+    <EntitySet Name="HIBOPActivityLines" EntityType="HIBOutlookModel.HIBOPActivityLine" />
+    <EntitySet Name="HIBOPActivityLookupDetails" EntityType="HIBOutlookModel.HIBOPActivityLookupDetail" />
+    <EntitySet Name="HIBOPActivityMasterMarketings" EntityType="HIBOutlookModel.HIBOPActivityMasterMarketing" />
+    <EntitySet Name="HIBOPActivityOpportunities" EntityType="HIBOutlookModel.HIBOPActivityOpportunity" />
+    <EntitySet Name="HIBOPActivityOwnerLists" EntityType="HIBOutlookModel.HIBOPActivityOwnerList" />
+    <EntitySet Name="HIBOPActivityServices" EntityType="HIBOutlookModel.HIBOPActivityService" />
+    <EntitySet Name="HIBOPActivityTransactions" EntityType="HIBOutlookModel.HIBOPActivityTransaction" />
+    <EntitySet Name="HIBOPAddActivities" EntityType="HIBOutlookModel.HIBOPAddActivity" />
+    <EntitySet Name="HIBOPCarrierSubmissions" EntityType="HIBOutlookModel.HIBOPCarrierSubmission" />
+    <EntitySet Name="HIBOPClaims" EntityType="HIBOutlookModel.HIBOPClaim" />
+    <EntitySet Name="HIBOPClients" EntityType="HIBOutlookModel.HIBOPClient" />
+    <EntitySet Name="HIBOPClientEmployees" EntityType="HIBOutlookModel.HIBOPClientEmployee" />
+    <EntitySet Name="HIBOPCommonLookups" EntityType="HIBOutlookModel.HIBOPCommonLookup" />
+    <EntitySet Name="HIBOPEmployees" EntityType="HIBOutlookModel.HIBOPEmployee" />
+    <EntitySet Name="HIBOPEmployeeAgencies" EntityType="HIBOutlookModel.HIBOPEmployeeAgency" />
+    <EntitySet Name="HIBOPFavourites" EntityType="HIBOutlookModel.HIBOPFavourite" />
+    <EntitySet Name="HIBOPFolderAttachments" EntityType="HIBOutlookModel.HIBOPFolderAttachment" />
+    <EntitySet Name="HIBOPPolicies" EntityType="HIBOutlookModel.HIBOPPolicy" />
+    <EntitySet Name="HIBOPPolicyLineTypes" EntityType="HIBOutlookModel.HIBOPPolicyLineType" />
+    <EntitySet Name="HIBOPSyncLogs" EntityType="HIBOutlookModel.HIBOPSyncLog" />
+    <EntitySet Name="HIBOPSyncLogUserDetails" EntityType="HIBOutlookModel.HIBOPSyncLogUserDetail" />
+    <EntitySet Name="HIBOPErrorLogs" EntityType="HIBOutlookModel.HIBOPErrorLog" />
+    <AssociationSet Name="FK_HIBOPActivityAccount_0_0" Association="HIBOutlookModel.FK_HIBOPActivityAccount_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityAccount" EntitySet="HIBOPActivityAccounts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityBill_0_0" Association="HIBOutlookModel.FK_HIBOPActivityBill_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityBill" EntitySet="HIBOPActivityBills" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityCertificate_0_0" Association="HIBOutlookModel.FK_HIBOPActivityCertificate_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityCertificate" EntitySet="HIBOPActivityCertificates" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityClientContacts_0_0" Association="HIBOutlookModel.FK_HIBOPActivityClientContacts_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityClientContact" EntitySet="HIBOPActivityClientContacts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityEvidence_0_0" Association="HIBOutlookModel.FK_HIBOPActivityEvidence_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityEvidence" EntitySet="HIBOPActivityEvidences" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityLine_0_0" Association="HIBOutlookModel.FK_HIBOPActivityLine_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityLine" EntitySet="HIBOPActivityLines" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityLookupDetails_0_0" Association="HIBOutlookModel.FK_HIBOPActivityLookupDetails_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityLookupDetail" EntitySet="HIBOPActivityLookupDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityMasterMarketing_0_0" Association="HIBOutlookModel.FK_HIBOPActivityMasterMarketing_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityMasterMarketing" EntitySet="HIBOPActivityMasterMarketings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityOpportunity_0_0" Association="HIBOutlookModel.FK_HIBOPActivityOpportunity_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityOpportunity" EntitySet="HIBOPActivityOpportunities" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityServices_0_0" Association="HIBOutlookModel.FK_HIBOPActivityServices_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityService" EntitySet="HIBOPActivityServices" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPActivityTransaction_0_0" Association="HIBOutlookModel.FK_HIBOPActivityTransaction_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivityTransaction" EntitySet="HIBOPActivityTransactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPCarrierSubmission_0_0" Association="HIBOutlookModel.FK_HIBOPCarrierSubmission_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPCarrierSubmission" EntitySet="HIBOPCarrierSubmissions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPClaim_0_0" Association="HIBOutlookModel.FK_HIBOPClaim_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPClaim" EntitySet="HIBOPClaims" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPClientEmployee_1_0" Association="HIBOutlookModel.FK_HIBOPClientEmployee_1_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPClientEmployee" EntitySet="HIBOPClientEmployees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPEmployeeAgency_0_0" Association="HIBOutlookModel.FK_HIBOPEmployeeAgency_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPEmployeeAgency" EntitySet="HIBOPEmployeeAgencies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPFavourites_0_0" Association="HIBOutlookModel.FK_HIBOPFavourites_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPFavourite" EntitySet="HIBOPFavourites" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPPolicy_0_0" Association="HIBOutlookModel.FK_HIBOPPolicy_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPPolicy" EntitySet="HIBOPPolicies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPClientEmployee_0_0" Association="HIBOutlookModel.FK_HIBOPClientEmployee_0_0">
+      <End Role="HIBOPEmployee" EntitySet="HIBOPEmployees" />
+      <End Role="HIBOPClientEmployee" EntitySet="HIBOPClientEmployees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HIBOPSyncLogUserDetails_0_0" Association="HIBOutlookModel.FK_HIBOPSyncLogUserDetails_0_0">
+      <End Role="HIBOPSyncLog" EntitySet="HIBOPSyncLogs" />
+      <End Role="HIBOPSyncLogUserDetail" EntitySet="HIBOPSyncLogUserDetails" />
+    </AssociationSet>
+    <EntitySet Name="HIBOPOutlookPluginLogs" EntityType="HIBOutlookModel.HIBOPOutlookPluginLog" />
+    <AssociationSet Name="FK_HIBOPOutlookPluginLog_0_0" Association="HIBOutlookModel.FK_HIBOPOutlookPluginLog_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPOutlookPluginLog" EntitySet="HIBOPOutlookPluginLogs" />
+    </AssociationSet>
+    <EntitySet Name="HIBOPActivityLists" EntityType="HIBOutlookModel.HIBOPActivityList" />
+    <EntitySet Name="AttachmentInfoes" EntityType="HIBOutlookModel.AttachmentInfo" />
+    <EntitySet Name="HIBOPActivities" EntityType="HIBOutlookModel.HIBOPActivity" />
+    <AssociationSet Name="FK_HIBOPActivity_0_0" Association="HIBOutlookModel.FK_HIBOPActivity_0_0">
+      <End Role="HIBOPClient" EntitySet="HIBOPClients" />
+      <End Role="HIBOPActivity" EntitySet="HIBOPActivities" />
+    </AssociationSet>
+    <EntitySet Name="HIBOPActivityEmployees" EntityType="HIBOutlookModel.HIBOPActivityEmployee" />
+  </EntityContainer>
+  <EntityType Name="HIBOPActivityAccount">
+    <Key>
+      <PropertyRef Name="AccountId" />
+    </Key>
+    <Property Name="AccountId" Type="Int32" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="UniqAgency" Type="Int32" />
+    <Property Name="AgencyCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="AgencyName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqBranch" Type="Int32" />
+    <Property Name="BranchCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="BranchName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityAccount_0_0" FromRole="HIBOPActivityAccount" ToRole="HIBOPClient" />
+    <Property Name="LookupCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityBill">
+    <Key>
+      <PropertyRef Name="BillId" />
+    </Key>
+    <Property Name="BillId" Type="Int32" Nullable="false" />
+    <Property Name="UniqTranshead" Type="Int32" />
+    <Property Name="DescriptionOf" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="BillNumber" Type="Int32" />
+    <Property Name="UniqAgency" Type="Int32" />
+    <Property Name="AgencyName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Amount" Type="Decimal" Precision="53" Scale="0" />
+    <Property Name="Balance" Type="Decimal" Precision="53" Scale="0" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityBill_0_0" FromRole="HIBOPActivityBill" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityCertificate">
+    <Key>
+      <PropertyRef Name="UniqCertificate" />
+    </Key>
+    <Property Name="UniqCertificate" Type="Int64" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityCertificate_0_0" FromRole="HIBOPActivityCertificate" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityClientContact">
+    <Key>
+      <PropertyRef Name="ClientContactId" />
+    </Key>
+    <Property Name="ClientContactId" Type="Int32" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="UniqContactName" Type="Int32" Nullable="false" />
+    <Property Name="ContactName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ContactType" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ContactValue" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <Property Name="UniqContactNumber" Type="Int32" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityClientContacts_0_0" FromRole="HIBOPActivityClientContact" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityEvidence">
+    <Key>
+      <PropertyRef Name="UniqEvidence" />
+    </Key>
+    <Property Name="UniqEvidence" Type="Int64" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="FormEditionDate" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityEvidence_0_0" FromRole="HIBOPActivityEvidence" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityLine">
+    <Key>
+      <PropertyRef Name="UniqLine" />
+    </Key>
+    <Property Name="UniqLine" Type="Int32" Nullable="false" />
+    <Property Name="UniqPolicy" Type="Int32" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="PolicyDesc" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="LineCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="LineOfBusiness" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="LineStatus" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="PolicyNumber" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqCdPolicyLineType" Type="Int32" />
+    <Property Name="UniqCdLineStatus" Type="Int32" />
+    <Property Name="IOC" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="BillModeCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="ExpirationDate" Type="DateTime" />
+    <Property Name="EffectiveDate" Type="DateTime" />
+    <Property Name="Flags" Type="Int32" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityLine_0_0" FromRole="HIBOPActivityLine" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityLookupDetail">
+    <Key>
+      <PropertyRef Name="ALDId" />
+    </Key>
+    <Property Name="ALDId" Type="Int32" Nullable="false" />
+    <Property Name="UniqLine" Type="Int32" Nullable="false" />
+    <Property Name="UniqPolicy" Type="Int32" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="UniqClaim" Type="Int32" />
+    <Property Name="LineCode" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="PolicyType" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="Linedescription" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="PolicyNumber" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="PolicyDesc" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqCdPolicyLineType" Type="Int32" Nullable="false" />
+    <Property Name="UniqCdLineStatus" Type="Int32" Nullable="false" />
+    <Property Name="LineExpDate" Type="DateTime" Nullable="false" />
+    <Property Name="LineEffDate" Type="DateTime" Nullable="false" />
+    <Property Name="PolicyExpDate" Type="DateTime" Nullable="false" />
+    <Property Name="PolicyEffDate" Type="DateTime" Nullable="false" />
+    <Property Name="ClaimNumber" Type="Int32" />
+    <Property Name="CompanyClaimNumber" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="DateLoss" Type="DateTime" />
+    <Property Name="ClosedDate" Type="DateTime" />
+    <Property Name="LookupCode" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="AccountName" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <Property Name="UniqClaimAssociation" Type="Int32" />
+    <Property Name="IOC" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="IOCCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="AttachmentDesc" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityLookupDetails_0_0" FromRole="HIBOPActivityLookupDetail" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityMasterMarketing">
+    <Key>
+      <PropertyRef Name="UniqMarketingSubmission" />
+    </Key>
+    <Property Name="UniqMarketingSubmission" Type="Int32" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="UniqAgency" Type="Int32" />
+    <Property Name="UniqBranch" Type="Int32" />
+    <Property Name="DescriptionOf" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqCdPolicyLineType" Type="Int32" />
+    <Property Name="EffectiveDate" Type="DateTime" />
+    <Property Name="ExpirationDate" Type="DateTime" />
+    <Property Name="LastSubmittedDate" Type="DateTime" />
+    <Property Name="Flags" Type="Int32" />
+    <Property Name="LineOfBusiness" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityMasterMarketing_0_0" FromRole="HIBOPActivityMasterMarketing" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityOpportunity">
+    <Key>
+      <PropertyRef Name="UniqOpportunity" />
+    </Key>
+    <Property Name="UniqOpportunity" Type="Int32" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="OppDesc" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="TargetedDate" Type="DateTime" />
+    <Property Name="ActualDate" Type="DateTime" />
+    <Property Name="UniqSalesTeam" Type="Int32" />
+    <Property Name="UniqEmployeeOwner" Type="Int32" />
+    <Property Name="UniqOpportunityStage" Type="Int32" />
+    <Property Name="OwnerName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="SalesTeam" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="SalesManager" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Stage" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Flags" Type="Int32" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityOpportunity_0_0" FromRole="HIBOPActivityOpportunity" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityOwnerList">
+    <Key>
+      <PropertyRef Name="OwnerId" />
+    </Key>
+    <Property Name="OwnerId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Lookupcode" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="EmployeeName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityService">
+    <Key>
+      <PropertyRef Name="UniqServiceHead" />
+    </Key>
+    <Property Name="UniqServiceHead" Type="Int32" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="ServiceNumber" Type="Int16" />
+    <Property Name="UniqCdServiceCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ContractNumber" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InceptionDate" Type="DateTime" />
+    <Property Name="ExpirationDate" Type="DateTime" />
+    <Property Name="Flags" Type="Int32" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityServices_0_0" FromRole="HIBOPActivityService" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPActivityTransaction">
+    <Key>
+      <PropertyRef Name="TransactionId" />
+    </Key>
+    <Property Name="TransactionId" Type="Int32" Nullable="false" />
+    <Property Name="UniqTranshead" Type="Int32" />
+    <Property Name="Code" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="DescriptionOf" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="InvoiceNumber" Type="Int32" />
+    <Property Name="ItemNumber" Type="Int32" />
+    <Property Name="Amount" Type="Decimal" Precision="53" Scale="0" />
+    <Property Name="Balance" Type="Decimal" Precision="53" Scale="0" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivityTransaction_0_0" FromRole="HIBOPActivityTransaction" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPAddActivity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="AddToType" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="AddToTypeId" Type="Int64" />
+    <Property Name="AddActivityCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="AddActivityDescription" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="AddActivityId" Type="Int64" />
+    <Property Name="OwnerCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="OwnerDecription" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="PriorityId" Type="Int64" />
+    <Property Name="Priority" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UpdateId" Type="Int64" />
+    <Property Name="Update" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ReminderDate" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ReminderTime" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="StartDate" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="StartTime" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="EndDate" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="EndTime" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="WhoToContactName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="WhoToContactId" Type="Int64" />
+    <Property Name="ContactMode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ContactModeId" Type="Int64" />
+    <Property Name="ContactDetail" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ContactDetailId" Type="Int64" />
+    <Property Name="AccessLevel" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="AccessLevelId" Type="Int64" />
+    <Property Name="Description" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="IsPushedToEpic" Type="Int64" />
+    <Property Name="ClientLookupCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="CurrentlyLoggedLookupCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="TaskEventEpicId" Type="Int64" />
+    <Property Name="ActivityGuid" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="AddActivityDisplayDescription" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="IsEpicPushInProgress" Type="Int64" />
+  </EntityType>
+  <EntityType Name="HIBOPCarrierSubmission">
+    <Key>
+      <PropertyRef Name="CarrierSubmissionId" />
+    </Key>
+    <Property Name="CarrierSubmissionId" Type="Int32" Nullable="false" />
+    <Property Name="UniqCarrierSubmission" Type="Int32" />
+    <Property Name="Carrier" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="CarrierSubmission" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqMarketingSubmission" Type="Int32" />
+    <Property Name="MarkettingSubmission" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="LastSubmittedDate" Type="DateTime" />
+    <Property Name="RequestedPremium" Type="Decimal" Precision="53" Scale="0" />
+    <Property Name="SubmissionStatus" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPCarrierSubmission_0_0" FromRole="HIBOPCarrierSubmission" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPClaim">
+    <Key>
+      <PropertyRef Name="UniqClaim" />
+    </Key>
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="UniqClaim" Type="Int32" Nullable="false" />
+    <Property Name="ClaimCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ClaimName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="LossDate" Type="DateTime" />
+    <Property Name="ReportedDate" Type="DateTime" />
+    <Property Name="ClaimNumber" Type="Int32" />
+    <Property Name="CompanyClaimNumber" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ClosedDate" Type="DateTime" />
+    <Property Name="Flags" Type="Int32" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPClaim_0_0" FromRole="HIBOPClaim" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPClient">
+    <Key>
+      <PropertyRef Name="UniqEntity" />
+    </Key>
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="LookupCode" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NameOf" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="PrimaryContactName" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="StateCode" Type="String" MaxLength="4" FixedLength="false" Unicode="false" />
+    <Property Name="StateName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PostalCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="CountryCode" Type="String" MaxLength="4" FixedLength="false" Unicode="false" />
+    <Property Name="Country" Type="String" MaxLength="125" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <Property Name="AgencyCode" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="AgencyName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="HIBOPActivityAccounts" Relationship="HIBOutlookModel.FK_HIBOPActivityAccount_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityAccount" />
+    <NavigationProperty Name="HIBOPActivityBills" Relationship="HIBOutlookModel.FK_HIBOPActivityBill_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityBill" />
+    <NavigationProperty Name="HIBOPActivityCertificates" Relationship="HIBOutlookModel.FK_HIBOPActivityCertificate_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityCertificate" />
+    <NavigationProperty Name="HIBOPActivityClientContacts" Relationship="HIBOutlookModel.FK_HIBOPActivityClientContacts_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityClientContact" />
+    <NavigationProperty Name="HIBOPActivityEvidences" Relationship="HIBOutlookModel.FK_HIBOPActivityEvidence_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityEvidence" />
+    <NavigationProperty Name="HIBOPActivityLines" Relationship="HIBOutlookModel.FK_HIBOPActivityLine_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityLine" />
+    <NavigationProperty Name="HIBOPActivityLookupDetails" Relationship="HIBOutlookModel.FK_HIBOPActivityLookupDetails_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityLookupDetail" />
+    <NavigationProperty Name="HIBOPActivityMasterMarketings" Relationship="HIBOutlookModel.FK_HIBOPActivityMasterMarketing_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityMasterMarketing" />
+    <NavigationProperty Name="HIBOPActivityOpportunities" Relationship="HIBOutlookModel.FK_HIBOPActivityOpportunity_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityOpportunity" />
+    <NavigationProperty Name="HIBOPActivityServices" Relationship="HIBOutlookModel.FK_HIBOPActivityServices_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityService" />
+    <NavigationProperty Name="HIBOPActivityTransactions" Relationship="HIBOutlookModel.FK_HIBOPActivityTransaction_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivityTransaction" />
+    <NavigationProperty Name="HIBOPCarrierSubmissions" Relationship="HIBOutlookModel.FK_HIBOPCarrierSubmission_0_0" FromRole="HIBOPClient" ToRole="HIBOPCarrierSubmission" />
+    <NavigationProperty Name="HIBOPClaims" Relationship="HIBOutlookModel.FK_HIBOPClaim_0_0" FromRole="HIBOPClient" ToRole="HIBOPClaim" />
+    <NavigationProperty Name="HIBOPClientEmployees" Relationship="HIBOutlookModel.FK_HIBOPClientEmployee_1_0" FromRole="HIBOPClient" ToRole="HIBOPClientEmployee" />
+    <NavigationProperty Name="HIBOPEmployeeAgencies" Relationship="HIBOutlookModel.FK_HIBOPEmployeeAgency_0_0" FromRole="HIBOPClient" ToRole="HIBOPEmployeeAgency" />
+    <NavigationProperty Name="HIBOPFavourites" Relationship="HIBOutlookModel.FK_HIBOPFavourites_0_0" FromRole="HIBOPClient" ToRole="HIBOPFavourite" />
+    <NavigationProperty Name="HIBOPPolicies" Relationship="HIBOutlookModel.FK_HIBOPPolicy_0_0" FromRole="HIBOPClient" ToRole="HIBOPPolicy" />
+    <NavigationProperty Name="HIBOPOutlookPluginLogs" Relationship="HIBOutlookModel.FK_HIBOPOutlookPluginLog_0_0" FromRole="HIBOPClient" ToRole="HIBOPOutlookPluginLog" />
+    <NavigationProperty Name="HIBOPActivities" Relationship="HIBOutlookModel.FK_HIBOPActivity_0_0" FromRole="HIBOPClient" ToRole="HIBOPActivity" />
+  </EntityType>
+  <EntityType Name="HIBOPClientEmployee">
+    <Key>
+      <PropertyRef Name="UserId" />
+      <PropertyRef Name="UniqEntity" />
+    </Key>
+    <Property Name="UserId" Type="Int64" Nullable="false" />
+    <Property Name="EmployeeLookupcode" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPClientEmployee_1_0" FromRole="HIBOPClientEmployee" ToRole="HIBOPClient" />
+    <NavigationProperty Name="HIBOPEmployee" Relationship="HIBOutlookModel.FK_HIBOPClientEmployee_0_0" FromRole="HIBOPClientEmployee" ToRole="HIBOPEmployee" />
+  </EntityType>
+  <EntityType Name="HIBOPCommonLookup">
+    <Key>
+      <PropertyRef Name="CommonLkpId" />
+    </Key>
+    <Property Name="CommonLkpId" Type="Int32" Nullable="false" />
+    <Property Name="CommonLkpTypeCode" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="CommonLkpCode" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="CommonLkpName" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="CommonLkpDescription" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="SortOrder" Type="Int32" />
+    <Property Name="IsDeleted" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HIBOPEmployee">
+    <Key>
+      <PropertyRef Name="LookupCode" />
+    </Key>
+    <Property Name="LookupCode" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="UniqEntity" Type="Int32" />
+    <Property Name="EmployeeName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Department" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="JobTitle" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InactiveDate" Type="DateTime" />
+    <Property Name="RoleFlags" Type="Int32" />
+    <Property Name="Flags" Type="Int32" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <Property Name="Status" Type="Int32" />
+    <Property Name="SyncStatusNotified" Type="Int32" />
+    <Property Name="AddinPreference" Type="Int64" />
+    <NavigationProperty Name="HIBOPClientEmployees" Relationship="HIBOutlookModel.FK_HIBOPClientEmployee_0_0" FromRole="HIBOPEmployee" ToRole="HIBOPClientEmployee" />
+  </EntityType>
+  <EntityType Name="HIBOPEmployeeAgency">
+    <Key>
+      <PropertyRef Name="EAId" />
+    </Key>
+    <Property Name="EAId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="EmployeeName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="LookupCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="UniqAgency" Type="Int32" Nullable="false" />
+    <Property Name="AgencyCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="BranchCode" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="AgencyName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqBranch" Type="Int32" Nullable="false" />
+    <Property Name="BranchName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqDepartment" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="Departmetname" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqProfitCenter" Type="Int32" Nullable="false" />
+    <Property Name="ProfitCenterCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="ProfitCenterNAme" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPEmployeeAgency_0_0" FromRole="HIBOPEmployeeAgency" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPFavourite">
+    <Key>
+      <PropertyRef Name="FavId" />
+    </Key>
+    <Property Name="FavId" Type="Int64" Nullable="false" />
+    <Property Name="FavouriteName" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="UniqEmployee" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="IsActiveClient" Type="Int64" Nullable="false" />
+    <Property Name="UniqActivity" Type="Int64" />
+    <Property Name="IsClosedActivity" Type="Int64" Nullable="false" />
+    <Property Name="PolicyYear" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="PolicyType" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="DescriptionType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="FolderId" Type="Int64" />
+    <Property Name="SubFolder1Id" Type="Int64" />
+    <Property Name="SubFolder2Id" Type="Int64" />
+    <Property Name="ClientAccessibleDate" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="CreatedBy" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" />
+    <Property Name="ModifiedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ModifiedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPFavourites_0_0" FromRole="HIBOPFavourite" ToRole="HIBOPClient" />
+    <Property Name="ActivityGuid" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="HIBOPFolderAttachment">
+    <Key>
+      <PropertyRef Name="FolderId" />
+    </Key>
+    <Property Name="FolderId" Type="Int64" Nullable="false" />
+    <Property Name="ParentFolderId" Type="Int64" Nullable="false" />
+    <Property Name="FolderType" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="FolderName" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+  </EntityType>
+  <EntityType Name="HIBOPPolicy">
+    <Key>
+      <PropertyRef Name="UniqPolicy" />
+    </Key>
+    <Property Name="UniqPolicy" Type="Int32" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="UniqAgency" Type="Int32" />
+    <Property Name="UniqBranch" Type="Int32" />
+    <Property Name="DescriptionOf" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="CdPolicyLineTypeCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="PolicyNumber" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="EffectiveDate" Type="DateTime" />
+    <Property Name="ExpirationDate" Type="DateTime" />
+    <Property Name="PolicyStatus" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Flags" Type="Int32" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPPolicy_0_0" FromRole="HIBOPPolicy" ToRole="HIBOPClient" />
+  </EntityType>
+  <EntityType Name="HIBOPPolicyLineType">
+    <Key>
+      <PropertyRef Name="UniqCdPolicyLineType" />
+    </Key>
+    <Property Name="UniqCdPolicyLineType" Type="Int64" Nullable="false" />
+    <Property Name="CdPolicyLineTypeCode" Type="String" MaxLength="4" FixedLength="false" Unicode="false" />
+    <Property Name="PolicyLineTypeDesc" Type="String" MaxLength="125" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="Int64" />
+    <Property Name="InsertedDate" Type="DateTime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+  </EntityType>
+  <EntityType Name="HIBOPSyncLog">
+    <Key>
+      <PropertyRef Name="SLId" />
+    </Key>
+    <Property Name="SLId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fields" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="SyncDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPSyncLogUserDetails" Relationship="HIBOutlookModel.FK_HIBOPSyncLogUserDetails_0_0" FromRole="HIBOPSyncLog" ToRole="HIBOPSyncLogUserDetail" />
+  </EntityType>
+  <EntityType Name="HIBOPSyncLogUserDetail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmployeeLookupcode" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="SyncLogId" Type="Int64" Nullable="false" />
+    <Property Name="SyncLogField" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="SyncDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPSyncLog" Relationship="HIBOutlookModel.FK_HIBOPSyncLogUserDetails_0_0" FromRole="HIBOPSyncLogUserDetail" ToRole="HIBOPSyncLog" />
+  </EntityType>
+  <EntityType Name="HIBOPErrorLog">
+    <Key>
+      <PropertyRef Name="LoggedBy" />
+      <PropertyRef Name="LogDate" />
+    </Key>
+    <Property Name="Source" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Thread" Type="Int32" />
+    <Property Name="Level" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Logger" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Message" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Exception" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="LoggedBy" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="LogDate" Type="DateTime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_HIBOPActivityAccount_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityAccount" Role="HIBOPActivityAccount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityAccount">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityBill_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityBill" Role="HIBOPActivityBill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityBill">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityCertificate_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityCertificate" Role="HIBOPActivityCertificate" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityCertificate">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityClientContacts_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityClientContact" Role="HIBOPActivityClientContact" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityClientContact">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityEvidence_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityEvidence" Role="HIBOPActivityEvidence" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityEvidence">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityLine_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityLine" Role="HIBOPActivityLine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityLine">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityLookupDetails_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityLookupDetail" Role="HIBOPActivityLookupDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityLookupDetail">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityMasterMarketing_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityMasterMarketing" Role="HIBOPActivityMasterMarketing" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityMasterMarketing">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityOpportunity_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityOpportunity" Role="HIBOPActivityOpportunity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityOpportunity">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityServices_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityService" Role="HIBOPActivityService" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityService">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPActivityTransaction_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivityTransaction" Role="HIBOPActivityTransaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivityTransaction">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPCarrierSubmission_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPCarrierSubmission" Role="HIBOPCarrierSubmission" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPCarrierSubmission">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPClaim_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPClaim" Role="HIBOPClaim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPClaim">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPClientEmployee_1_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPClientEmployee" Role="HIBOPClientEmployee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPClientEmployee">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPEmployeeAgency_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPEmployeeAgency" Role="HIBOPEmployeeAgency" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPEmployeeAgency">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPFavourites_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPFavourite" Role="HIBOPFavourite" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPFavourite">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPPolicy_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPPolicy" Role="HIBOPPolicy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPPolicy">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPClientEmployee_0_0">
+    <End Type="HIBOutlookModel.HIBOPEmployee" Role="HIBOPEmployee" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPClientEmployee" Role="HIBOPClientEmployee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPEmployee">
+        <PropertyRef Name="LookupCode" />
+      </Principal>
+      <Dependent Role="HIBOPClientEmployee">
+        <PropertyRef Name="EmployeeLookupcode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HIBOPSyncLogUserDetails_0_0">
+    <End Type="HIBOutlookModel.HIBOPSyncLog" Role="HIBOPSyncLog" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPSyncLogUserDetail" Role="HIBOPSyncLogUserDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPSyncLog">
+        <PropertyRef Name="SLId" />
+      </Principal>
+      <Dependent Role="HIBOPSyncLogUserDetail">
+        <PropertyRef Name="SyncLogId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="HIBOPOutlookPluginLog">
+    <Key>
+      <PropertyRef Name="LogId" />
+    </Key>
+    <Property Name="LogId" Type="Int64" Nullable="false" />
+    <Property Name="UniqId" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqEmployee" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="UniqActivity" Type="Int32" Nullable="false" />
+    <Property Name="PolicyYear" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="PolicyType" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="DescriptionType" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="FolderId" Type="Int64" />
+    <Property Name="SubFolder1Id" Type="Int64" />
+    <Property Name="SubFolder2Id" Type="Int64" />
+    <Property Name="EmailAction" Type="String" Nullable="false" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Version" Type="Int32" />
+    <Property Name="InsertedDate" Type="DateTime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="DateTime" Nullable="false" />
+    <Property Name="EmailSubject" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="Int64" />
+    <Property Name="AttachmentInfoId" Type="Int64" />
+    <Property Name="ClientAccessibleDate" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="ClientCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPOutlookPluginLog_0_0" FromRole="HIBOPOutlookPluginLog" ToRole="HIBOPClient" />
+    <Property Name="ErrorMessage" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_HIBOPOutlookPluginLog_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPOutlookPluginLog" Role="HIBOPOutlookPluginLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPOutlookPluginLog">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="HIBOPActivityList">
+    <Key>
+      <PropertyRef Name="AId" />
+    </Key>
+    <Property Name="AId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UniqActivityCode" Type="Int32" Nullable="false" />
+    <Property Name="ActivityCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ActivityName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <Property Name="LookupCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="EmployeeName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="IsClosedStatus" Type="Int32" />
+  </EntityType>
+  <EntityType Name="AttachmentInfo">
+    <Key>
+      <PropertyRef Name="AttachmentId" />
+    </Key>
+    <Property Name="AttachmentId" Type="Int64" Nullable="false" />
+    <Property Name="ClientId" Type="Int64" />
+    <Property Name="ActivityId" Type="Int64" />
+    <Property Name="FileExtension" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="FileName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="ParentFolderId" Type="Int64" />
+    <Property Name="ParentFolderName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="FolderId" Type="Int64" />
+    <Property Name="FolderName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="SubFolderId" Type="Int64" />
+    <Property Name="SubFolderName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="PolicyCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="PolicyType" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="PolicyYear" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="ClientAccessible" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="EmailFromAddress" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="EmailToAddress" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Subject" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="ReceivedDate" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="AttachmentFilePath" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="IsPushedToEpic" Type="Int64" />
+    <Property Name="IsAttachDelete" Type="Int64" />
+    <Property Name="Identifier" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="IsActiveClient" Type="Int64" />
+    <Property Name="IsActiveActivity" Type="Int64" />
+    <Property Name="DescFrom" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="CreatedDate" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="ModifiedDate" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="EmployeeCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="AttachmentMailBody" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="IsDeletedFromZFolder" Type="Int64" />
+    <Property Name="EmailFromDisplayName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="EmailToDisplayName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="EmailCCAddress" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="EmailCCDisplayName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="ActivityGuid" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="UserName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="DomainName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="IsEpicPushInProgress" Type="Int64" />
+    <Property Name="AttachmentIdentifier" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="HIBOPActivity">
+    <Key>
+      <PropertyRef Name="UniqActivity" />
+    </Key>
+    <Property Name="UniqActivity" Type="Int32" Nullable="false" />
+    <Property Name="UniqEntity" Type="Int64" Nullable="false" />
+    <Property Name="UniqActivityCode" Type="Int32" />
+    <Property Name="ActivityCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="DescriptionOf" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqCdPolicyLineType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PolicyNumber" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="EffectiveDate" Type="DateTime" />
+    <Property Name="ExpirationDate" Type="DateTime" />
+    <Property Name="Status" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="InsertedDate" Type="DateTime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="DateTime" />
+    <Property Name="ClosedDate" Type="DateTime" />
+    <Property Name="UniqAgency" Type="Int32" />
+    <Property Name="UniqBranch" Type="Int32" />
+    <Property Name="UniqDepartment" Type="Int32" />
+    <Property Name="UniqProfitCenter" Type="Int32" />
+    <Property Name="UniqAssociatedItem" Type="Int32" />
+    <Property Name="AssociationType" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="OwnerCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="OwnerDescription" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="UniqPolicy" Type="Int32" />
+    <Property Name="UniqLine" Type="Int32" />
+    <Property Name="UniqClaim" Type="Int32" />
+    <Property Name="LossDate" Type="DateTime" />
+    <Property Name="PolicyDescription" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="LineCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="LineDescription" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="ICO" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="LineEffectiveDate" Type="DateTime" />
+    <Property Name="LineExpirationDate" Type="DateTime" />
+    <NavigationProperty Name="HIBOPClient" Relationship="HIBOutlookModel.FK_HIBOPActivity_0_0" FromRole="HIBOPActivity" ToRole="HIBOPClient" />
+  </EntityType>
+  <Association Name="FK_HIBOPActivity_0_0">
+    <End Type="HIBOutlookModel.HIBOPClient" Role="HIBOPClient" Multiplicity="1" />
+    <End Type="HIBOutlookModel.HIBOPActivity" Role="HIBOPActivity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HIBOPClient">
+        <PropertyRef Name="UniqEntity" />
+      </Principal>
+      <Dependent Role="HIBOPActivity">
+        <PropertyRef Name="UniqEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="HIBOPActivityEmployee">
+    <Key>
+      <PropertyRef Name="UniqEmployee" />
+    </Key>
+    <Property Name="UniqEmployee" Type="Int64" Nullable="false" />
+    <Property Name="EmployeeLookupCode" Type="String" MaxLength="2147483647" FixedLength="true" Unicode="false" />
+    <Property Name="UniqEntity" Type="Int64" />
+    <Property Name="UniqActivity" Type="Int64" />
+  </EntityType>
+</Schema>

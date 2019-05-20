@@ -1,0 +1,517 @@
+C:\project\Source\HIB.Outlook.UI\obj\Debug\App.g.cs
+C:\project\Source\HIB.Outlook.UI\obj\Debug\Layout.g.cs
+C:\project\Source\HIB.Outlook.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\project\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI_MarkupCompile.cache
+C:\project\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI_MarkupCompile.lref
+C:\project\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csprojResolveAssemblyReference.cache
+C:\project\Source\HIB.Outlook.UI\obj\Debug\Layout.baml
+C:\project\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.g.resources
+C:\project\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.Properties.Resources.resources
+C:\project\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.GenerateResource.Cache
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.config
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.manifest
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.vsto
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.xml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csprojResolveAssemblyReference.cache
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.g.cs
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.cache
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.lref
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.baml
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.g.resources
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.PeoplePaneRegion.resources
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.GenerateResource.Cache
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Source\Trunk\Trunk\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\x86\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\x64\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.config
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.manifest
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.vsto
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\AddinExpress.Outlook.Regions.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Notifications.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HtmlToXamlConverter.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\AddinExpress.Outlook.Regions.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csprojResolveAssemblyReference.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.lref
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.g.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentBridge.PushToEpicFormRegion.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.GenerateResource.Cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.manifest
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.vsto
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Notifications.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.g.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentBridge.PushToEpicFormRegion.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.GenerateResource.Cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CopyComplete
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\x86\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\x64\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.config
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.manifest
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.vsto
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\AddinExpress.Outlook.Regions.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Notifications.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HtmlToXamlConverter.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\AddinExpress.Outlook.Regions.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csprojResolveAssemblyReference.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.lref
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.g.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentBridge.PushToEpicFormRegion.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.GenerateResource.Cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.manifest
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.vsto
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Notifications.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.g.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\AttachmentBridge.PushToEpicFormRegion.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.manifest
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.vsto
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Notifications.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.g.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\AttachmentBridge.PushToEpicFormRegion.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.manifest
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.vsto
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Notifications.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.g.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\AttachmentBridge.PushToEpicFormRegion.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.dll.manifest
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\PeoplePaneRegion.vsto
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Notifications.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\AttachmentControl.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityFirstPage.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivityMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\AddActivitySecondPage.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\AttachToEpicMainPage.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\MultipleEmailAttachment.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\PolicyTypeList.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.g.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\AttachmentBridge.PushToEpicFormRegion.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\HIB.Outlook.UI.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\PeoplePaneRegion.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\FailedAttachments.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\FailedAttachments.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\ConfirmationUser.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UI\obj\Debug\UserControls\ConfirmationUser.baml

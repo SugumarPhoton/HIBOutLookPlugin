@@ -1,0 +1,35 @@
+IF NOT EXISTS ( SELECT 'X' FROM SYSOBJECTS WHERE XTYPE='U' AND NAME ='HIBOPActivityServices')
+BEGIN
+CREATE TABLE HIBOPActivityServices
+(
+UniqServiceHead		INT,
+UniqEntity			INT,
+ServiceNumber		SMALLINT,
+UniqCdServiceCode	CHAR(4),
+[Description]		varchar(max),
+ContractNumber		VARCHAR(125),
+InceptionDate		DATETIME,
+ExpirationDate		DATETIME,
+Flags				INT,
+InsertedDate		DATETIME,
+UpdatedDate			DATETIME
+)
+END
+
+IF NOT EXISTS (SELECT 'X' FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'HIBOPActivityServices' AND COLUMN_NAME = 'UniqAgency')
+BEGIN
+	ALTER TABLE HIBOPActivityServices ADD UniqAgency Int  NULL ;
+END	
+GO
+
+IF NOT EXISTS (SELECT 'X' FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'HIBOPActivityServices' AND COLUMN_NAME = 'UniqBranch')
+BEGIN
+	ALTER TABLE HIBOPActivityServices ADD UniqBranch Int  NULL ;
+END	
+GO
+
+IF NOT EXISTS (SELECT 'X' FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'HIBOPActivityServices' AND COLUMN_NAME = 'UniqDepartment')
+BEGIN
+	ALTER TABLE HIBOPActivityServices ADD UniqDepartment Int  NULL ;
+END	
+GO

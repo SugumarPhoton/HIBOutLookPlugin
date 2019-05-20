@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HIBOutlookModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <Function Name="HIBOPEpicSyncClient_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="HIBOPEpicSyncPolicyLineType_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="HIBOPGetActivityAccount_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+    <Parameter Name="RowsPerPage" Type="int" Mode="In" />
+    <Parameter Name="PageNumber" Type="int" Mode="In" />
+    <Parameter Name="RowCount" Type="bigint" Mode="InOut" />
+  </Function>
+  <Function Name="HIBOPGetActivityBill_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityCarrierSubmission_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityCertificate_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityClaim_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityClientContacts_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityDetails_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="EmployeeLookupCode" Type="char" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+    <Parameter Name="RowsPerPage" Type="int" Mode="In" />
+    <Parameter Name="PageNumber" Type="int" Mode="In" />
+    <Parameter Name="RowCount" Type="bigint" Mode="InOut" />
+  </Function>
+  <Function Name="HIBOPGetActivityEmployee_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="EmployeeLookupCode" Type="char" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+    <Parameter Name="RowsPerPage" Type="int" Mode="In" />
+    <Parameter Name="PageNumber" Type="int" Mode="In" />
+    <Parameter Name="RowCount" Type="bigint" Mode="InOut" />
+  </Function>
+  <Function Name="HIBOPGetActivityEvidence_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityLine_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+    <Parameter Name="RowsPerPage" Type="int" Mode="In" />
+    <Parameter Name="PageNumber" Type="int" Mode="In" />
+    <Parameter Name="RowCount" Type="bigint" Mode="InOut" />
+  </Function>
+  <Function Name="HIBOPGetActivityList_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityLookupDetails_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityMarketing_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityOpportunity_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityOwnerList_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSynDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+    <Parameter Name="RowsPerPage" Type="int" Mode="In" />
+    <Parameter Name="PageNumber" Type="int" Mode="In" />
+    <Parameter Name="RowCount" Type="bigint" Mode="InOut" />
+  </Function>
+  <Function Name="HIBOPGetActivityPolicy_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+    <Parameter Name="RowsPerPage" Type="int" Mode="In" />
+    <Parameter Name="PageNumber" Type="int" Mode="In" />
+    <Parameter Name="RowCount" Type="bigint" Mode="InOut" />
+  </Function>
+  <Function Name="HIBOPGetActivityServices_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetActivityTransaction_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetClientDetails_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+    <Parameter Name="RowsPerPage" Type="int" Mode="In" />
+    <Parameter Name="PageNumber" Type="int" Mode="In" />
+    <Parameter Name="RowCount" Type="bigint" Mode="InOut" />
+  </Function>
+  <Function Name="HIBOPGetClientEmployee_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+    <Parameter Name="RowsPerPage" Type="int" Mode="In" />
+    <Parameter Name="PageNumber" Type="int" Mode="In" />
+    <Parameter Name="RowCount" Type="bigint" Mode="InOut" />
+  </Function>
+  <Function Name="HIBOPGetCommonLookUp_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetDeltaSync_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+    <Parameter Name="Is_Client" Type="bit" Mode="In" />
+    <Parameter Name="Is_FirstSync" Type="bit" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetEmployee_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetEmployeeAgency_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetFolders_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPGetPolicyLineType_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPSyncAuditLogToCentralized_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="HIBOPSyncAuditLogToLocal_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="HIBOPSyncErrorLogToCenterlized_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="HIBOPSyncErrorLogToLocal_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User" Type="varchar" Mode="In" />
+    <Parameter Name="LastSyncDate" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="HIBOPSyncFavouriteToCentralized_SP" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IPAddress" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="HIBOPSyncIntervalMinutes" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IntervalMinutes" Type="int" Mode="InOut" />
+    <Parameter Name="ClientActIntervalMinutes" Type="int" Mode="InOut" />
+  </Function>
+  <EntityContainer Name="HIBOutlookModelStoreContainer" />
+</Schema>

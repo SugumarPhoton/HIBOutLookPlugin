@@ -1,0 +1,7 @@
+Command Prompt Commands:
+
+
+cd C:\package
+
+
+signtool.exe sign /f hgit.pfx "HGITS Outlook Attachment Plugin.msi"

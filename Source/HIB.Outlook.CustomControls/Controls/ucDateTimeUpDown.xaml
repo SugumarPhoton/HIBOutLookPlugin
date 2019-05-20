@@ -1,0 +1,112 @@
+﻿<UserControl x:Class="CustomControls.Controls.UcDateTimeUpDown"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CustomControls.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" KeyboardNavigation.TabNavigation="Local">
+    <Grid>
+        <Border BorderBrush="Black" BorderThickness=".25" />
+        <StackPanel Orientation="Horizontal">
+
+
+            <TextBox x:Name="AddHoursTextBox" TabIndex="1"
+                       MinWidth="20" MaxLength="2"
+                       HorizontalAlignment="Center" GotFocus="AddHoursTextBox_GotFocus"
+                       VerticalAlignment="Center" LostFocus="AddHoursTextBox_LostFocus"
+                       Text="{Binding DisplayTimeHours,
+                                      Mode=OneWay,UpdateSourceTrigger=PropertyChanged}"
+                       TextAlignment="Center" />
+            <StackPanel HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Orientation="Vertical">
+                <Button x:Name="HourUpButton" Click="HourUpButton_OnClick" IsTabStop="False" >
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border BorderBrush="Black" BorderThickness=".25">
+                                <Viewbox Width="8" Height="8">
+                                    <Image Height="8" Width="8" Source="/CustomControls;component/Assets/upimage.png"/>
+                                </Viewbox>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+
+                <Button x:Name="HourDownButton" IsTabStop="False"
+                        Margin="0,-1,0,0"
+                        Click="HourDownButton_OnClick">
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border BorderBrush="Black" BorderThickness=".25">
+                                <Viewbox Width="8" Height="8">
+                                    <Image Height="8" Width="8" Source="/CustomControls;component/Assets/downimage.png"/>
+                                </Viewbox>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </StackPanel>
+            <TextBlock Margin="3,0,0,0"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="h." Visibility="Collapsed"/>
+            <TextBlock Margin="3,0,0,0" Visibility="Collapsed"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text=":"
+                       TextAlignment="Center" />
+            <TextBox x:Name="AddMinutesTextBox" TabIndex="2"
+                       MinWidth="20" MaxLength="2" GotFocus="AddMinutesTextBox_GotFocus"
+                       HorizontalAlignment="Center" LostFocus="AddMinutesTextBox_LostFocus"
+                       VerticalAlignment="Center"
+                       Text="{Binding DisplayTimeMinutes,
+                                      Mode=OneWay}"
+                       TextAlignment="Center" />
+
+
+            <StackPanel HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Orientation="Vertical">
+                <Button x:Name="MinutesUpButton" Click="MinutesUpButton_OnClick" IsTabStop="False">
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border BorderBrush="Black" BorderThickness=".25">
+                                <Viewbox Width="8" Height="8">
+                                    <Image Height="8" Width="8" Source="/CustomControls;component/Assets/upimage.png"/>
+                                </Viewbox>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+
+                <Button x:Name="MinutesDownButton" IsTabStop="False"
+                        Margin="0,-1,0,0"
+                        Click="MinutesDownButton_OnClick">
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border BorderBrush="Black" BorderThickness="0.25">
+                                <Viewbox Width="8" Height="8">
+                                    <Image Height="8" Width="8" Source="/CustomControls;component/Assets/downimage.png"/>
+                                </Viewbox>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </StackPanel>
+            <TextBlock Margin="3,0,3,0"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="m." Visibility="Collapsed"/>
+
+            <ComboBox x:Name="AmPmComboBox" TabIndex="3" Height="16" IsEditable="True"   IsTextSearchEnabled="True" 
+          IsTextSearchCaseSensitive="False" 
+          StaysOpenOnEdit="True" MinWidth="40" Margin="2,0,0,0"
+                      HorizontalAlignment="Center"
+                      VerticalAlignment="Center"
+                      BorderThickness=".1"
+                      ItemsSource="{Binding AmPmTypes}"
+                      SelectedItem="{Binding DisplayAmPm}" />
+        </StackPanel>
+    </Grid>
+</UserControl>

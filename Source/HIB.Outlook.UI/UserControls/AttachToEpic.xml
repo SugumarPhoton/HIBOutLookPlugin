@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabMail" >
+        <group id="AttachtoEpic"  label="Attach items" screentip="Attach to Epic">
+          <button id="MyButton" getEnabled="Control_Enable"  description="this is test"
+                    size="large" getImage="GetIcon"
+                    label="Attach to Epic"
+                    onAction="AttachToEpicForMultipleEmails"/>
+        </group>
+
+        <group id="AddinVisibility"  label="Epic Pane" screentip="On/Off">
+          <toggleButton id="btnVisible"  description="On/Off"
+                    size="large" getImage="GetIcon"
+                    label="On/Off"
+                    onAction="ToggleButtonOnAction" getPressed="get_Pressed"  />
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+  <contextMenus>
+    <contextMenu idMso="ContextMenuMultipleItems"   >
+      <button  id="AttachToEpicMailItem" getVisible="Control_Visible" insertAfterMso="MarkAsUnread" onAction="AttachToEpicForMultipleEmails" getImage="GetIcon" getLabel="GetSynchronisationLabel"/>
+    </contextMenu>
+  </contextMenus>
+</customUI>
+

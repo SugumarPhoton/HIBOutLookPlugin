@@ -1,0 +1,91 @@
+IF NOT EXISTS ( SELECT 'X' FROM SYSOBJECTS WHERE XTYPE='U' AND NAME = 'HIBOPActivity')
+BEGIN	
+	CREATE TABLE [dbo].[HIBOPActivity]
+	(
+	[OPAId] [int] IDENTITY(1,1) NOT NULL,
+	[UniqActivity] [int] NOT NULL,
+	[UniqEntity] [int] NOT NULL,
+	[UniqActivityCode] [int] NULL,
+	[ActivityCode] [char](4) NULL,
+	[DescriptionOf] [varchar](125) NULL,
+	[UniqCdPolicyLineType] [int] NULL,
+	[PolicyNumber] [varchar](50) NULL,
+	[EffectiveDate] [datetime] NULL,
+	[ExpirationDate] [datetime] NULL,
+	[Status] [int] NULL,
+	[InsertedDate] [datetime] NOT NULL,
+	[UpdatedDate] [datetime] NULL,
+	[ClosedDate] [datetime] NULL,
+	[UniqAgency] [int] NULL,
+	[UniqBranch] [int] NULL,
+	[UniqDepartment] [int] NULL,
+	[UniqProfitCenter] [int] NULL,
+	[UniqAssociatedItem] [int] NULL,
+	[AssociationType]	[VARCHAR](20) null,
+	UniqEmployee	INT
+	) 
+
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='UniqPolicy' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD UniqPolicy INT 
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='UniqLine' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD UniqLine INT 
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='UniqClaim' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD UniqClaim INT 
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='LossDate' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD LossDate DATETIME
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='PolicyDescription' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD PolicyDescription VARCHAR(125)
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='LineCode' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD LineCode VARCHAR(4) 
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='LineDescription' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD LineDescription VARCHAR(MAX) 
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='ICO' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD ICO VARCHAR(6) 
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='LineEffectiveDate' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD LineEffectiveDate DATETIME
+END
+
+IF NOT EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.COLUMNS where COLUMN_NAME='LineExpirationDate' and TABLE_NAME='HIBOPActivity')
+BEGIN
+ALTER TABLE HIBOPActivity ADD LineExpirationDate DATETIME
+END
+
+
+IF NOT EXISTS (SELECT 'X' FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'HIBOPActivity' AND COLUMN_NAME = 'UniqEntityCompanyIssuing')
+BEGIN
+	ALTER TABLE HIBOPActivity ADD UniqEntityCompanyIssuing Int  NULL ;
+END	
+GO
+
+IF NOT EXISTS (SELECT 'X' FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'HIBOPActivity' AND COLUMN_NAME = 'UniqEntityCompanyBilling')
+BEGIN
+	ALTER TABLE HIBOPActivity ADD UniqEntityCompanyBilling Int  NULL ;
+END	
+GO

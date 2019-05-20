@@ -1,0 +1,58 @@
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll.config
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csprojResolveAssemblyReference.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.SDK.Service.Proxy\obj\Debug\HIB.Outlook.Epic.Proxy.pdb

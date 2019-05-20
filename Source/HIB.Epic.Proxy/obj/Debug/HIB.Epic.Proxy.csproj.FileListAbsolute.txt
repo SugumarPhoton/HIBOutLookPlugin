@@ -1,0 +1,151 @@
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\x86\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\x64\sqlite3.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csprojResolveAssemblyReference.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\x86\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\x64\sqlite3.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Epic.Proxy.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.Sync.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\HIB.Outlook.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Epic.Proxy\obj\Debug\HIB.Epic.Proxy.pdb

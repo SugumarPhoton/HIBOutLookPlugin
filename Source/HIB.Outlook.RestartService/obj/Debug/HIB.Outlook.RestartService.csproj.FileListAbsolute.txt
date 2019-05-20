@@ -1,0 +1,95 @@
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.ProjectInstaller.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.Service1.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.ProjectInstaller.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.Service1.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.ProjectInstaller.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.Service1.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.ProjectInstaller.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.Service1.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.RestartService.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Helper.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\bin\Debug\System.Data.SQLite.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.ProjectInstaller.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.Service1.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.RestartService\obj\Debug\HIB.Outlook.RestartService.pdb

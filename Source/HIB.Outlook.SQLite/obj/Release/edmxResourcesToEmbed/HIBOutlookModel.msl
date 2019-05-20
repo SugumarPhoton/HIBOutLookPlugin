@@ -1,0 +1,623 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HIBOutlookModelStoreContainer" CdmEntityContainer="HIBOutlookEntities">
+    <EntitySetMapping Name="HIBOPActivityAccounts">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityAccount">
+        <MappingFragment StoreEntitySet="HIBOPActivityAccount">
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="BranchName" ColumnName="BranchName" />
+          <ScalarProperty Name="BranchCode" ColumnName="BranchCode" />
+          <ScalarProperty Name="UniqBranch" ColumnName="UniqBranch" />
+          <ScalarProperty Name="AgencyName" ColumnName="AgencyName" />
+          <ScalarProperty Name="AgencyCode" ColumnName="AgencyCode" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityBills">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityBill">
+        <MappingFragment StoreEntitySet="HIBOPActivityBill">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Balance" ColumnName="Balance" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="AgencyName" ColumnName="AgencyName" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="BillNumber" ColumnName="BillNumber" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="DescriptionOf" ColumnName="DescriptionOf" />
+          <ScalarProperty Name="UniqTranshead" ColumnName="UniqTranshead" />
+          <ScalarProperty Name="BillId" ColumnName="BillId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityCertificates">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityCertificate">
+        <MappingFragment StoreEntitySet="HIBOPActivityCertificate">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqCertificate" ColumnName="UniqCertificate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityClientContacts">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityClientContact">
+        <MappingFragment StoreEntitySet="HIBOPActivityClientContacts">
+          <ScalarProperty Name="UniqContactNumber" ColumnName="UniqContactNumber" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="ContactValue" ColumnName="ContactValue" />
+          <ScalarProperty Name="ContactType" ColumnName="ContactType" />
+          <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+          <ScalarProperty Name="UniqContactName" ColumnName="UniqContactName" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="ClientContactId" ColumnName="ClientContactId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityEvidences">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityEvidence">
+        <MappingFragment StoreEntitySet="HIBOPActivityEvidence">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="FormEditionDate" ColumnName="FormEditionDate" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqEvidence" ColumnName="UniqEvidence" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityLines">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityLine">
+        <MappingFragment StoreEntitySet="HIBOPActivityLine">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+          <ScalarProperty Name="EffectiveDate" ColumnName="EffectiveDate" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="BillModeCode" ColumnName="BillModeCode" />
+          <ScalarProperty Name="IOC" ColumnName="IOC" />
+          <ScalarProperty Name="UniqCdLineStatus" ColumnName="UniqCdLineStatus" />
+          <ScalarProperty Name="UniqCdPolicyLineType" ColumnName="UniqCdPolicyLineType" />
+          <ScalarProperty Name="PolicyNumber" ColumnName="PolicyNumber" />
+          <ScalarProperty Name="LineStatus" ColumnName="LineStatus" />
+          <ScalarProperty Name="LineOfBusiness" ColumnName="LineOfBusiness" />
+          <ScalarProperty Name="LineCode" ColumnName="LineCode" />
+          <ScalarProperty Name="PolicyDesc" ColumnName="PolicyDesc" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqPolicy" ColumnName="UniqPolicy" />
+          <ScalarProperty Name="UniqLine" ColumnName="UniqLine" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityLookupDetails">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityLookupDetail">
+        <MappingFragment StoreEntitySet="HIBOPActivityLookupDetails">
+          <ScalarProperty Name="AttachmentDesc" ColumnName="AttachmentDesc" />
+          <ScalarProperty Name="IOCCode" ColumnName="IOCCode" />
+          <ScalarProperty Name="IOC" ColumnName="IOC" />
+          <ScalarProperty Name="UniqClaimAssociation" ColumnName="UniqClaimAssociation" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="AccountName" ColumnName="AccountName" />
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+          <ScalarProperty Name="ClosedDate" ColumnName="ClosedDate" />
+          <ScalarProperty Name="DateLoss" ColumnName="DateLoss" />
+          <ScalarProperty Name="CompanyClaimNumber" ColumnName="CompanyClaimNumber" />
+          <ScalarProperty Name="ClaimNumber" ColumnName="ClaimNumber" />
+          <ScalarProperty Name="PolicyEffDate" ColumnName="PolicyEffDate" />
+          <ScalarProperty Name="PolicyExpDate" ColumnName="PolicyExpDate" />
+          <ScalarProperty Name="LineEffDate" ColumnName="LineEffDate" />
+          <ScalarProperty Name="LineExpDate" ColumnName="LineExpDate" />
+          <ScalarProperty Name="UniqCdLineStatus" ColumnName="UniqCdLineStatus" />
+          <ScalarProperty Name="UniqCdPolicyLineType" ColumnName="UniqCdPolicyLineType" />
+          <ScalarProperty Name="PolicyDesc" ColumnName="PolicyDesc" />
+          <ScalarProperty Name="PolicyNumber" ColumnName="PolicyNumber" />
+          <ScalarProperty Name="Linedescription" ColumnName="Linedescription" />
+          <ScalarProperty Name="PolicyType" ColumnName="PolicyType" />
+          <ScalarProperty Name="LineCode" ColumnName="LineCode" />
+          <ScalarProperty Name="UniqClaim" ColumnName="UniqClaim" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqPolicy" ColumnName="UniqPolicy" />
+          <ScalarProperty Name="UniqLine" ColumnName="UniqLine" />
+          <ScalarProperty Name="ALDId" ColumnName="ALDId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityMasterMarketings">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityMasterMarketing">
+        <MappingFragment StoreEntitySet="HIBOPActivityMasterMarketing">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="LineOfBusiness" ColumnName="LineOfBusiness" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+          <ScalarProperty Name="LastSubmittedDate" ColumnName="LastSubmittedDate" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="EffectiveDate" ColumnName="EffectiveDate" />
+          <ScalarProperty Name="UniqCdPolicyLineType" ColumnName="UniqCdPolicyLineType" />
+          <ScalarProperty Name="DescriptionOf" ColumnName="DescriptionOf" />
+          <ScalarProperty Name="UniqBranch" ColumnName="UniqBranch" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqMarketingSubmission" ColumnName="UniqMarketingSubmission" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityOpportunities">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityOpportunity">
+        <MappingFragment StoreEntitySet="HIBOPActivityOpportunity">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+          <ScalarProperty Name="Stage" ColumnName="Stage" />
+          <ScalarProperty Name="SalesManager" ColumnName="SalesManager" />
+          <ScalarProperty Name="SalesTeam" ColumnName="SalesTeam" />
+          <ScalarProperty Name="OwnerName" ColumnName="OwnerName" />
+          <ScalarProperty Name="UniqOpportunityStage" ColumnName="UniqOpportunityStage" />
+          <ScalarProperty Name="UniqEmployeeOwner" ColumnName="UniqEmployeeOwner" />
+          <ScalarProperty Name="UniqSalesTeam" ColumnName="UniqSalesTeam" />
+          <ScalarProperty Name="ActualDate" ColumnName="ActualDate" />
+          <ScalarProperty Name="TargetedDate" ColumnName="TargetedDate" />
+          <ScalarProperty Name="OppDesc" ColumnName="OppDesc" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqOpportunity" ColumnName="UniqOpportunity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityOwnerLists">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityOwnerList">
+        <MappingFragment StoreEntitySet="HIBOPActivityOwnerList">
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="Lookupcode" ColumnName="Lookupcode" />
+          <ScalarProperty Name="OwnerId" ColumnName="OwnerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityServices">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityService">
+        <MappingFragment StoreEntitySet="HIBOPActivityServices">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="InceptionDate" ColumnName="InceptionDate" />
+          <ScalarProperty Name="ContractNumber" ColumnName="ContractNumber" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="UniqCdServiceCode" ColumnName="UniqCdServiceCode" />
+          <ScalarProperty Name="ServiceNumber" ColumnName="ServiceNumber" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqServiceHead" ColumnName="UniqServiceHead" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityTransactions">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityTransaction">
+        <MappingFragment StoreEntitySet="HIBOPActivityTransaction">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Balance" ColumnName="Balance" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="ItemNumber" ColumnName="ItemNumber" />
+          <ScalarProperty Name="InvoiceNumber" ColumnName="InvoiceNumber" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="DescriptionOf" ColumnName="DescriptionOf" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="UniqTranshead" ColumnName="UniqTranshead" />
+          <ScalarProperty Name="TransactionId" ColumnName="TransactionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPAddActivities">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPAddActivity">
+        <MappingFragment StoreEntitySet="HIBOPAddActivity">
+          <ScalarProperty Name="IsEpicPushInProgress" ColumnName="IsEpicPushInProgress" />
+          <ScalarProperty Name="AddActivityDisplayDescription" ColumnName="AddActivityDisplayDescription" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ActivityGuid" ColumnName="ActivityGuid" />
+          <ScalarProperty Name="TaskEventEpicId" ColumnName="TaskEventEpicId" />
+          <ScalarProperty Name="CurrentlyLoggedLookupCode" ColumnName="CurrentlyLoggedLookupCode" />
+          <ScalarProperty Name="ClientLookupCode" ColumnName="ClientLookupCode" />
+          <ScalarProperty Name="IsPushedToEpic" ColumnName="IsPushedToEpic" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="AccessLevelId" ColumnName="AccessLevelId" />
+          <ScalarProperty Name="AccessLevel" ColumnName="AccessLevel" />
+          <ScalarProperty Name="ContactDetailId" ColumnName="ContactDetailId" />
+          <ScalarProperty Name="ContactDetail" ColumnName="ContactDetail" />
+          <ScalarProperty Name="ContactModeId" ColumnName="ContactModeId" />
+          <ScalarProperty Name="ContactMode" ColumnName="ContactMode" />
+          <ScalarProperty Name="WhoToContactId" ColumnName="WhoToContactId" />
+          <ScalarProperty Name="WhoToContactName" ColumnName="WhoToContactName" />
+          <ScalarProperty Name="EndTime" ColumnName="EndTime" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="StartTime" ColumnName="StartTime" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="ReminderTime" ColumnName="ReminderTime" />
+          <ScalarProperty Name="ReminderDate" ColumnName="ReminderDate" />
+          <ScalarProperty Name="Update" ColumnName="Update" />
+          <ScalarProperty Name="UpdateId" ColumnName="UpdateId" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+          <ScalarProperty Name="PriorityId" ColumnName="PriorityId" />
+          <ScalarProperty Name="OwnerDecription" ColumnName="OwnerDecription" />
+          <ScalarProperty Name="OwnerCode" ColumnName="OwnerCode" />
+          <ScalarProperty Name="AddActivityId" ColumnName="AddActivityId" />
+          <ScalarProperty Name="AddActivityDescription" ColumnName="AddActivityDescription" />
+          <ScalarProperty Name="AddActivityCode" ColumnName="AddActivityCode" />
+          <ScalarProperty Name="AddToTypeId" ColumnName="AddToTypeId" />
+          <ScalarProperty Name="AddToType" ColumnName="AddToType" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPCarrierSubmissions">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPCarrierSubmission">
+        <MappingFragment StoreEntitySet="HIBOPCarrierSubmission">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="SubmissionStatus" ColumnName="SubmissionStatus" />
+          <ScalarProperty Name="RequestedPremium" ColumnName="RequestedPremium" />
+          <ScalarProperty Name="LastSubmittedDate" ColumnName="LastSubmittedDate" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="MarkettingSubmission" ColumnName="MarkettingSubmission" />
+          <ScalarProperty Name="UniqMarketingSubmission" ColumnName="UniqMarketingSubmission" />
+          <ScalarProperty Name="CarrierSubmission" ColumnName="CarrierSubmission" />
+          <ScalarProperty Name="Carrier" ColumnName="Carrier" />
+          <ScalarProperty Name="UniqCarrierSubmission" ColumnName="UniqCarrierSubmission" />
+          <ScalarProperty Name="CarrierSubmissionId" ColumnName="CarrierSubmissionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPClaims">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPClaim">
+        <MappingFragment StoreEntitySet="HIBOPClaim">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+          <ScalarProperty Name="ClosedDate" ColumnName="ClosedDate" />
+          <ScalarProperty Name="CompanyClaimNumber" ColumnName="CompanyClaimNumber" />
+          <ScalarProperty Name="ClaimNumber" ColumnName="ClaimNumber" />
+          <ScalarProperty Name="ReportedDate" ColumnName="ReportedDate" />
+          <ScalarProperty Name="LossDate" ColumnName="LossDate" />
+          <ScalarProperty Name="ClaimName" ColumnName="ClaimName" />
+          <ScalarProperty Name="ClaimCode" ColumnName="ClaimCode" />
+          <ScalarProperty Name="UniqClaim" ColumnName="UniqClaim" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPClients">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPClient">
+        <MappingFragment StoreEntitySet="HIBOPClient">
+          <ScalarProperty Name="AgencyName" ColumnName="AgencyName" />
+          <ScalarProperty Name="AgencyCode" ColumnName="AgencyCode" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="CountryCode" ColumnName="CountryCode" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="StateName" ColumnName="StateName" />
+          <ScalarProperty Name="StateCode" ColumnName="StateCode" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PrimaryContactName" ColumnName="PrimaryContactName" />
+          <ScalarProperty Name="NameOf" ColumnName="NameOf" />
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPClientEmployees">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPClientEmployee">
+        <MappingFragment StoreEntitySet="HIBOPClientEmployee">
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="EmployeeLookupcode" ColumnName="EmployeeLookupcode" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPCommonLookups">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPCommonLookup">
+        <MappingFragment StoreEntitySet="HIBOPCommonLookup">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+          <ScalarProperty Name="CommonLkpDescription" ColumnName="CommonLkpDescription" />
+          <ScalarProperty Name="CommonLkpName" ColumnName="CommonLkpName" />
+          <ScalarProperty Name="CommonLkpCode" ColumnName="CommonLkpCode" />
+          <ScalarProperty Name="CommonLkpTypeCode" ColumnName="CommonLkpTypeCode" />
+          <ScalarProperty Name="CommonLkpId" ColumnName="CommonLkpId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPEmployees">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPEmployee">
+        <MappingFragment StoreEntitySet="HIBOPEmployee">
+          <ScalarProperty Name="AddinPreference" ColumnName="AddinPreference" />
+          <ScalarProperty Name="SyncStatusNotified" ColumnName="SyncStatusNotified" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+          <ScalarProperty Name="RoleFlags" ColumnName="RoleFlags" />
+          <ScalarProperty Name="InactiveDate" ColumnName="InactiveDate" />
+          <ScalarProperty Name="JobTitle" ColumnName="JobTitle" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPEmployeeAgencies">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPEmployeeAgency">
+        <MappingFragment StoreEntitySet="HIBOPEmployeeAgency">
+          <ScalarProperty Name="ProfitCenterNAme" ColumnName="ProfitCenterNAme" />
+          <ScalarProperty Name="ProfitCenterCode" ColumnName="ProfitCenterCode" />
+          <ScalarProperty Name="UniqProfitCenter" ColumnName="UniqProfitCenter" />
+          <ScalarProperty Name="Departmetname" ColumnName="Departmetname" />
+          <ScalarProperty Name="DepartmentCode" ColumnName="DepartmentCode" />
+          <ScalarProperty Name="UniqDepartment" ColumnName="UniqDepartment" />
+          <ScalarProperty Name="BranchName" ColumnName="BranchName" />
+          <ScalarProperty Name="UniqBranch" ColumnName="UniqBranch" />
+          <ScalarProperty Name="AgencyName" ColumnName="AgencyName" />
+          <ScalarProperty Name="BranchCode" ColumnName="BranchCode" />
+          <ScalarProperty Name="AgencyCode" ColumnName="AgencyCode" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="EAId" ColumnName="EAId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPFavourites">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPFavourite">
+        <MappingFragment StoreEntitySet="HIBOPFavourites">
+          <ScalarProperty Name="ActivityGuid" ColumnName="ActivityGuid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ClientAccessibleDate" ColumnName="ClientAccessibleDate" />
+          <ScalarProperty Name="SubFolder2Id" ColumnName="SubFolder2Id" />
+          <ScalarProperty Name="SubFolder1Id" ColumnName="SubFolder1Id" />
+          <ScalarProperty Name="FolderId" ColumnName="FolderId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="DescriptionType" ColumnName="DescriptionType" />
+          <ScalarProperty Name="PolicyType" ColumnName="PolicyType" />
+          <ScalarProperty Name="PolicyYear" ColumnName="PolicyYear" />
+          <ScalarProperty Name="IsClosedActivity" ColumnName="IsClosedActivity" />
+          <ScalarProperty Name="UniqActivity" ColumnName="UniqActivity" />
+          <ScalarProperty Name="IsActiveClient" ColumnName="IsActiveClient" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqEmployee" ColumnName="UniqEmployee" />
+          <ScalarProperty Name="FavouriteName" ColumnName="FavouriteName" />
+          <ScalarProperty Name="FavId" ColumnName="FavId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPFolderAttachments">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPFolderAttachment">
+        <MappingFragment StoreEntitySet="HIBOPFolderAttachment">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="FolderName" ColumnName="FolderName" />
+          <ScalarProperty Name="FolderType" ColumnName="FolderType" />
+          <ScalarProperty Name="ParentFolderId" ColumnName="ParentFolderId" />
+          <ScalarProperty Name="FolderId" ColumnName="FolderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPPolicies">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPPolicy">
+        <MappingFragment StoreEntitySet="HIBOPPolicy">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+          <ScalarProperty Name="PolicyStatus" ColumnName="PolicyStatus" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="EffectiveDate" ColumnName="EffectiveDate" />
+          <ScalarProperty Name="PolicyNumber" ColumnName="PolicyNumber" />
+          <ScalarProperty Name="CdPolicyLineTypeCode" ColumnName="CdPolicyLineTypeCode" />
+          <ScalarProperty Name="DescriptionOf" ColumnName="DescriptionOf" />
+          <ScalarProperty Name="UniqBranch" ColumnName="UniqBranch" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqPolicy" ColumnName="UniqPolicy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPPolicyLineTypes">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPPolicyLineType">
+        <MappingFragment StoreEntitySet="HIBOPPolicyLineType">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="PolicyLineTypeDesc" ColumnName="PolicyLineTypeDesc" />
+          <ScalarProperty Name="CdPolicyLineTypeCode" ColumnName="CdPolicyLineTypeCode" />
+          <ScalarProperty Name="UniqCdPolicyLineType" ColumnName="UniqCdPolicyLineType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPSyncLogs">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPSyncLog">
+        <MappingFragment StoreEntitySet="HIBOPSyncLog">
+          <ScalarProperty Name="SyncDate" ColumnName="SyncDate" />
+          <ScalarProperty Name="Fields" ColumnName="Fields" />
+          <ScalarProperty Name="SLId" ColumnName="SLId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPSyncLogUserDetails">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPSyncLogUserDetail">
+        <MappingFragment StoreEntitySet="HIBOPSyncLogUserDetails">
+          <ScalarProperty Name="SyncDate" ColumnName="SyncDate" />
+          <ScalarProperty Name="SyncLogField" ColumnName="SyncLogField" />
+          <ScalarProperty Name="SyncLogId" ColumnName="SyncLogId" />
+          <ScalarProperty Name="EmployeeLookupcode" ColumnName="EmployeeLookupcode" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPErrorLogs">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPErrorLog">
+        <MappingFragment StoreEntitySet="HIBOPErrorLog">
+          <ScalarProperty Name="LogDate" ColumnName="LogDate" />
+          <ScalarProperty Name="LoggedBy" ColumnName="LoggedBy" />
+          <ScalarProperty Name="Exception" ColumnName="Exception" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="Logger" ColumnName="Logger" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="Thread" ColumnName="Thread" />
+          <ScalarProperty Name="Source" ColumnName="Source" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPOutlookPluginLogs">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPOutlookPluginLog">
+        <MappingFragment StoreEntitySet="HIBOPOutlookPluginLog">
+          <ScalarProperty Name="ErrorMessage" ColumnName="ErrorMessage" />
+          <ScalarProperty Name="ClientCode" ColumnName="ClientCode" />
+          <ScalarProperty Name="ClientAccessibleDate" ColumnName="ClientAccessibleDate" />
+          <ScalarProperty Name="AttachmentInfoId" ColumnName="AttachmentInfoId" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="EmailSubject" ColumnName="EmailSubject" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Version" ColumnName="Version" />
+          <ScalarProperty Name="EmailAction" ColumnName="EmailAction" />
+          <ScalarProperty Name="SubFolder2Id" ColumnName="SubFolder2Id" />
+          <ScalarProperty Name="SubFolder1Id" ColumnName="SubFolder1Id" />
+          <ScalarProperty Name="FolderId" ColumnName="FolderId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="DescriptionType" ColumnName="DescriptionType" />
+          <ScalarProperty Name="PolicyType" ColumnName="PolicyType" />
+          <ScalarProperty Name="PolicyYear" ColumnName="PolicyYear" />
+          <ScalarProperty Name="UniqActivity" ColumnName="UniqActivity" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqEmployee" ColumnName="UniqEmployee" />
+          <ScalarProperty Name="UniqId" ColumnName="UniqId" />
+          <ScalarProperty Name="LogId" ColumnName="LogId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityLists">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityList">
+        <MappingFragment StoreEntitySet="HIBOPActivityList">
+          <ScalarProperty Name="IsClosedStatus" ColumnName="IsClosedStatus" />
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="ActivityName" ColumnName="ActivityName" />
+          <ScalarProperty Name="ActivityCode" ColumnName="ActivityCode" />
+          <ScalarProperty Name="UniqActivityCode" ColumnName="UniqActivityCode" />
+          <ScalarProperty Name="AId" ColumnName="AId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AttachmentInfoes">
+      <EntityTypeMapping TypeName="HIBOutlookModel.AttachmentInfo">
+        <MappingFragment StoreEntitySet="AttachmentInfo">
+          <ScalarProperty Name="AttachmentIdentifier" ColumnName="AttachmentIdentifier" />
+          <ScalarProperty Name="IsEpicPushInProgress" ColumnName="IsEpicPushInProgress" />
+          <ScalarProperty Name="DomainName" ColumnName="DomainName" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="ActivityGuid" ColumnName="ActivityGuid" />
+          <ScalarProperty Name="EmailCCDisplayName" ColumnName="EmailCCDisplayName" />
+          <ScalarProperty Name="EmailCCAddress" ColumnName="EmailCCAddress" />
+          <ScalarProperty Name="EmailToDisplayName" ColumnName="EmailToDisplayName" />
+          <ScalarProperty Name="EmailFromDisplayName" ColumnName="EmailFromDisplayName" />
+          <ScalarProperty Name="IsDeletedFromZFolder" ColumnName="IsDeletedFromZFolder" />
+          <ScalarProperty Name="AttachmentMailBody" ColumnName="AttachmentMailBody" />
+          <ScalarProperty Name="EmployeeCode" ColumnName="EmployeeCode" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="DescFrom" ColumnName="DescFrom" />
+          <ScalarProperty Name="IsActiveActivity" ColumnName="IsActiveActivity" />
+          <ScalarProperty Name="IsActiveClient" ColumnName="IsActiveClient" />
+          <ScalarProperty Name="Identifier" ColumnName="Identifier" />
+          <ScalarProperty Name="IsAttachDelete" ColumnName="IsAttachDelete" />
+          <ScalarProperty Name="IsPushedToEpic" ColumnName="IsPushedToEpic" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="AttachmentFilePath" ColumnName="AttachmentFilePath" />
+          <ScalarProperty Name="ReceivedDate" ColumnName="ReceivedDate" />
+          <ScalarProperty Name="Subject" ColumnName="Subject" />
+          <ScalarProperty Name="EmailToAddress" ColumnName="EmailToAddress" />
+          <ScalarProperty Name="EmailFromAddress" ColumnName="EmailFromAddress" />
+          <ScalarProperty Name="ClientAccessible" ColumnName="ClientAccessible" />
+          <ScalarProperty Name="PolicyYear" ColumnName="PolicyYear" />
+          <ScalarProperty Name="PolicyType" ColumnName="PolicyType" />
+          <ScalarProperty Name="PolicyCode" ColumnName="PolicyCode" />
+          <ScalarProperty Name="SubFolderName" ColumnName="SubFolderName" />
+          <ScalarProperty Name="SubFolderId" ColumnName="SubFolderId" />
+          <ScalarProperty Name="FolderName" ColumnName="FolderName" />
+          <ScalarProperty Name="FolderId" ColumnName="FolderId" />
+          <ScalarProperty Name="ParentFolderName" ColumnName="ParentFolderName" />
+          <ScalarProperty Name="ParentFolderId" ColumnName="ParentFolderId" />
+          <ScalarProperty Name="FileName" ColumnName="FileName" />
+          <ScalarProperty Name="FileExtension" ColumnName="FileExtension" />
+          <ScalarProperty Name="ActivityId" ColumnName="ActivityId" />
+          <ScalarProperty Name="ClientId" ColumnName="ClientId" />
+          <ScalarProperty Name="AttachmentId" ColumnName="AttachmentId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivities">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivity">
+        <MappingFragment StoreEntitySet="HIBOPActivity">
+          <ScalarProperty Name="LineExpirationDate" ColumnName="LineExpirationDate" />
+          <ScalarProperty Name="LineEffectiveDate" ColumnName="LineEffectiveDate" />
+          <ScalarProperty Name="ICO" ColumnName="ICO" />
+          <ScalarProperty Name="LineDescription" ColumnName="LineDescription" />
+          <ScalarProperty Name="LineCode" ColumnName="LineCode" />
+          <ScalarProperty Name="PolicyDescription" ColumnName="PolicyDescription" />
+          <ScalarProperty Name="LossDate" ColumnName="LossDate" />
+          <ScalarProperty Name="UniqClaim" ColumnName="UniqClaim" />
+          <ScalarProperty Name="UniqLine" ColumnName="UniqLine" />
+          <ScalarProperty Name="UniqPolicy" ColumnName="UniqPolicy" />
+          <ScalarProperty Name="OwnerDescription" ColumnName="OwnerDescription" />
+          <ScalarProperty Name="OwnerCode" ColumnName="OwnerCode" />
+          <ScalarProperty Name="AssociationType" ColumnName="AssociationType" />
+          <ScalarProperty Name="UniqAssociatedItem" ColumnName="UniqAssociatedItem" />
+          <ScalarProperty Name="UniqProfitCenter" ColumnName="UniqProfitCenter" />
+          <ScalarProperty Name="UniqDepartment" ColumnName="UniqDepartment" />
+          <ScalarProperty Name="UniqBranch" ColumnName="UniqBranch" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="ClosedDate" ColumnName="ClosedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="EffectiveDate" ColumnName="EffectiveDate" />
+          <ScalarProperty Name="PolicyNumber" ColumnName="PolicyNumber" />
+          <ScalarProperty Name="UniqCdPolicyLineType" ColumnName="UniqCdPolicyLineType" />
+          <ScalarProperty Name="DescriptionOf" ColumnName="DescriptionOf" />
+          <ScalarProperty Name="ActivityCode" ColumnName="ActivityCode" />
+          <ScalarProperty Name="UniqActivityCode" ColumnName="UniqActivityCode" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqActivity" ColumnName="UniqActivity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HIBOPActivityEmployees">
+      <EntityTypeMapping TypeName="HIBOutlookModel.HIBOPActivityEmployee">
+        <MappingFragment StoreEntitySet="HIBOPActivityEmployee">
+          <ScalarProperty Name="UniqActivity" ColumnName="UniqActivity" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="EmployeeLookupCode" ColumnName="EmployeeLookupCode" />
+          <ScalarProperty Name="UniqEmployee" ColumnName="UniqEmployee" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D9654452-C110-4596-B3C9-5E4FB88D79E2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HIB.Outlook.DAL</RootNamespace>
+    <AssemblyName>HIB.Outlook.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HIBOPGetActivityAccount_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityBill_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityCarrierSubmission_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityCertificate_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityClaim_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityClientContacts_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityDetails_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityEmployee_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityEvidence_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityLine_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityList_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityLookupDetails_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityMarketing_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityOpportunity_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityOwnerList_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityPolicy_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityServices_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetActivityTransaction_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetClientDetails_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetClientEmployee_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetCommonLookUp_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetDeltaSync_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetEmployeeAgency_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetEmployee_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetFolders_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPGetPolicyLineType_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPSyncAuditLogToLocal_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPSyncErrorLogToLocal_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPSyncIntervalMinutes_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HIBOPSynzClientToLocal_SP_Result.cs">
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OutlookModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OutlookModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OutlookModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OutlookModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OutlookModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OutlookModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="OutlookModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>OutlookModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OutlookModel.edmx.diagram">
+      <DependentUpon>OutlookModel.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OutlookModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>OutlookModel.Context.cs</LastGenOutput>
+      <DependentUpon>OutlookModel.edmx</DependentUpon>
+    </Content>
+    <Content Include="OutlookModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>OutlookModel.edmx</DependentUpon>
+      <LastGenOutput>OutlookModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

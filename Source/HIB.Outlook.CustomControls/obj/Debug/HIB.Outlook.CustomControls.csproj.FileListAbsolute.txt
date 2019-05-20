@@ -1,0 +1,136 @@
+C:\project\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.dll
+C:\project\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.pdb
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\Themes\Generic.baml
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.g.resources
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.GenerateResource.Cache
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.dll
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.pdb
+C:\project\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csprojResolveAssemblyReference.cache
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.dll
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.pdb
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csprojResolveAssemblyReference.cache
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\Themes\Generic.baml
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.g.resources
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.GenerateResource.Cache
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.dll
+D:\Sugumar\Projects\Heffernan\Outlook-Addin\Source\outlookaddin\Trunk\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\HtmlToXamlConverter.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Themes\Generic.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.g.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.GenerateResource.Cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Themes\Generic.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.g.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.GenerateResource.Cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csprojAssemblyReference.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\HtmlToXamlConverter.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Themes\Generic.baml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.g.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.GenerateResource.Cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csprojResolveAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\Themes\Generic.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.g.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\Themes\Generic.baml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.g.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\Themes\Generic.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.g.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\bin\Debug\CustomControls.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\bin\Debug\HtmlToXamlConverter.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\Controls\ucDateTimeUpDown.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\Themes\Generic.baml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.g.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.GenerateResource.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\HIB.Outlook.CustomControls.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.CustomControls\obj\Debug\CustomControls.pdb

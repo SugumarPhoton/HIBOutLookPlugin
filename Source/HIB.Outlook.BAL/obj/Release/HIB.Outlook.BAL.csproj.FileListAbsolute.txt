@@ -1,0 +1,123 @@
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csprojResolveAssemblyReference.cache
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.BAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\log4net.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\HIB.Outlook.Model.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\log4net.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csprojAssemblyReference.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.BAL\obj\Release\HIB.Outlook.BAL.pdb

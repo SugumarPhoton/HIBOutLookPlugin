@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ddf79792a8f64ddca141fc6fef4cb4b2" Name="Diagram1" ZoomLevel="99">
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityAccount" Width="1.5" PointX="3" PointY="73.5" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityBill" Width="1.5" PointX="3" PointY="30.625" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityCertificate" Width="1.5" PointX="3" PointY="60.125" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityClientContact" Width="1.5" PointX="3" PointY="27" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityEvidence" Width="1.5" PointX="3" PointY="63.125" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityLine" Width="1.5" PointX="3" PointY="77.5" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityLookupDetail" Width="1.5" PointX="3" PointY="66.25" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityMasterMarketing" Width="1.5" PointX="3" PointY="6.5" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityOpportunity" Width="1.5" PointX="3" PointY="43.5" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityOwnerList" Width="1.5" PointX="7.75" PointY="4.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityService" Width="1.5" PointX="3" PointY="82.625" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityTransaction" Width="1.5" PointX="3" PointY="56.125" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPAddActivity" Width="1.5" PointX="7.75" PointY="7.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPCarrierSubmission" Width="1.5" PointX="3" PointY="10.875" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPClaim" Width="1.5" PointX="3" PointY="39.25" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPClient" Width="1.5" PointX="0.75" PointY="43.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPClientEmployee" Width="1.5" PointX="6" PointY="46.625" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPCommonLookup" Width="1.5" PointX="9.75" PointY="4.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPEmployee" Width="1.5" PointX="3.75" PointY="1.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPEmployeeAgency" Width="1.5" PointX="3" PointY="51" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPFavourite" Width="1.5" PointX="3" PointY="86.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPFolderAttachment" Width="1.5" PointX="9.75" PointY="8.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPPolicy" Width="1.5" PointX="3" PointY="34.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPPolicyLineType" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPSyncLog" Width="1.5" PointX="5.75" PointY="1.125" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPSyncLogUserDetail" Width="1.5" PointX="8" PointY="0.875" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPErrorLog" Width="1.5" PointX="11.75" PointY="3.75" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityAccount_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityBill_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityCertificate_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityClientContacts_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityEvidence_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityLine_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityLookupDetails_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityMasterMarketing_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityOpportunity_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityServices_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivityTransaction_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPCarrierSubmission_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPClaim_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPClientEmployee_1_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPEmployeeAgency_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPFavourites_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPPolicy_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPClientEmployee_0_0" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPSyncLogUserDetails_0_0" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPOutlookPluginLog" Width="1.5" PointX="3" PointY="93" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPOutlookPluginLog_0_0" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityList" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.AttachmentInfo" Width="1.5" PointX="12.375" PointY="7.75" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivity" Width="1.5" PointX="3" PointY="19" />
+        <AssociationConnector Association="HIBOutlookModel.FK_HIBOPActivity_0_0" />
+        <EntityTypeShape EntityType="HIBOutlookModel.HIBOPActivityEmployee" Width="1.5" PointX="13.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,6 @@
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UpgradeApp\bin\Debug\HIB.Outlook.UpgradeApp.exe.config
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UpgradeApp\bin\Debug\HIB.Outlook.UpgradeApp.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UpgradeApp\bin\Debug\HIB.Outlook.UpgradeApp.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UpgradeApp\obj\Debug\HIB.Outlook.UpgradeApp.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UpgradeApp\obj\Debug\HIB.Outlook.UpgradeApp.exe
+C:\Projects\Heffernan\Outlook Addin\Outlook -new prod\Source\HIB.Outlook.UpgradeApp\obj\Debug\HIB.Outlook.UpgradeApp.pdb

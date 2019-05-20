@@ -1,0 +1,65 @@
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csprojResolveAssemblyReference.cache
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook v1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csprojAssemblyReference.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll.config
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.pdb
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csprojResolveAssemblyReference.cache
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.dll
+C:\HIB.Projects\HIB.Outlook\Branch\Branch_1.5_08_09_18\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Branch_1.5\Branch_1.5\Branch_1.5_17.09.18\Branch_1.5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Branches\Outlook CR5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll.config
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\HIB.Outlook.DAL.pdb
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.csproj.CopyComplete
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.dll
+C:\Projects\Heffernan\Outlook Addin\Outlook CR5\Source\HIB.Outlook.DAL\obj\Debug\HIB.Outlook.DAL.pdb

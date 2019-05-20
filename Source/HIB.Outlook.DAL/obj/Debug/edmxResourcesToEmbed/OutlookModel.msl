@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HIBOutlookModelStoreContainer" CdmEntityContainer="HIBOutlookEntities">
+    <FunctionImportMapping FunctionImportName="HIBOPEpicSyncClient_SP" FunctionName="HIBOutlookModel.Store.HIBOPEpicSyncClient_SP" />
+    <FunctionImportMapping FunctionImportName="HIBOPEpicSyncPolicyLineType_SP" FunctionName="HIBOutlookModel.Store.HIBOPEpicSyncPolicyLineType_SP" />
+    <FunctionImportMapping FunctionImportName="HIBOPGetPolicyLineType_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetPolicyLineType_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetPolicyLineType_SP_Result">
+          <ScalarProperty Name="CdPolicyLineTypeCode" ColumnName="CdPolicyLineTypeCode" />
+          <ScalarProperty Name="PolicyLineTypeDesc" ColumnName="PolicyLineTypeDesc" />
+          <ScalarProperty Name="UniqCdPolicyLineType" ColumnName="UniqCdPolicyLineType" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPSyncErrorLogToLocal_SP" FunctionName="HIBOutlookModel.Store.HIBOPSyncErrorLogToLocal_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPSyncErrorLogToLocal_SP_Result">
+          <ScalarProperty Name="Source" ColumnName="Source" />
+          <ScalarProperty Name="Thread" ColumnName="Thread" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="Logger" ColumnName="Logger" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="Exception" ColumnName="Exception" />
+          <ScalarProperty Name="LoggedBy" ColumnName="LoggedBy" />
+          <ScalarProperty Name="LogDate" ColumnName="LogDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPSyncFavouriteToCentralized_SP" FunctionName="HIBOutlookModel.Store.HIBOPSyncFavouriteToCentralized_SP" />
+    <FunctionImportMapping FunctionImportName="HIBOPSyncAuditLogToLocal_SP" FunctionName="HIBOutlookModel.Store.HIBOPSyncAuditLogToLocal_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPSyncAuditLogToLocal_SP_Result">
+          <ScalarProperty Name="UniqId" ColumnName="UniqId" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="ClientLookupCode" ColumnName="ClientLookupCode" />
+          <ScalarProperty Name="ClientName" ColumnName="ClientName" />
+          <ScalarProperty Name="PrimaryContactName" ColumnName="PrimaryContactName" />
+          <ScalarProperty Name="UniqActivity" ColumnName="UniqActivity" />
+          <ScalarProperty Name="ActivityCode" ColumnName="ActivityCode" />
+          <ScalarProperty Name="DescriptionOf" ColumnName="DescriptionOf" />
+          <ScalarProperty Name="PolicyNumber" ColumnName="PolicyNumber" />
+          <ScalarProperty Name="PolicyYear" ColumnName="PolicyYear" />
+          <ScalarProperty Name="PolicyType" ColumnName="PolicyType" />
+          <ScalarProperty Name="DescriptionType" ColumnName="DescriptionType" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="FolderId" ColumnName="FolderId" />
+          <ScalarProperty Name="FolderNameF" ColumnName="FolderNameF" />
+          <ScalarProperty Name="SubFolder1Id" ColumnName="SubFolder1Id" />
+          <ScalarProperty Name="FolderNameF1" ColumnName="FolderNameF1" />
+          <ScalarProperty Name="SubFolder2Id" ColumnName="SubFolder2Id" />
+          <ScalarProperty Name="FolderNameF2" ColumnName="FolderNameF2" />
+          <ScalarProperty Name="ClientAccessibleDate" ColumnName="ClientAccessibleDate" />
+          <ScalarProperty Name="EmailAction" ColumnName="EmailAction" />
+          <ScalarProperty Name="Version" ColumnName="Version" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPSyncAuditLogToCentralized_SP" FunctionName="HIBOutlookModel.Store.HIBOPSyncAuditLogToCentralized_SP" />
+    <FunctionImportMapping FunctionImportName="HIBOPSyncErrorLogToCenterlized_SP" FunctionName="HIBOutlookModel.Store.HIBOPSyncErrorLogToCenterlized_SP" />
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityOwnerList_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityOwnerList_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityOwnerList_SP_Result">
+          <ScalarProperty Name="Lookupcode" ColumnName="Lookupcode" />
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetFolders_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetFolders_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetFolders_SP_Result">
+          <ScalarProperty Name="FolderId" ColumnName="FolderId" />
+          <ScalarProperty Name="ParentFolderId" ColumnName="ParentFolderId" />
+          <ScalarProperty Name="FolderName" ColumnName="FolderName" />
+          <ScalarProperty Name="FolderType" ColumnName="FolderType" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityClientContacts_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityClientContacts_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityClientContacts_SP_Result">
+          <ScalarProperty Name="ClientContactId" ColumnName="ClientContactId" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqContactName" ColumnName="UniqContactName" />
+          <ScalarProperty Name="UniqContactNumber" ColumnName="UniqContactNumber" />
+          <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+          <ScalarProperty Name="ContactType" ColumnName="ContactType" />
+          <ScalarProperty Name="ContactValue" ColumnName="ContactValue" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityLookupDetails_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityLookupDetails_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityLookupDetails_SP_Result">
+          <ScalarProperty Name="ALDId" ColumnName="ALDId" />
+          <ScalarProperty Name="UniqLine" ColumnName="UniqLine" />
+          <ScalarProperty Name="UniqPolicy" ColumnName="UniqPolicy" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqClaim" ColumnName="UniqClaim" />
+          <ScalarProperty Name="LineCode" ColumnName="LineCode" />
+          <ScalarProperty Name="PolicyType" ColumnName="PolicyType" />
+          <ScalarProperty Name="Linedescription" ColumnName="Linedescription" />
+          <ScalarProperty Name="PolicyNumber" ColumnName="PolicyNumber" />
+          <ScalarProperty Name="PolicyDesc" ColumnName="PolicyDesc" />
+          <ScalarProperty Name="UniqCdPolicyLineType" ColumnName="UniqCdPolicyLineType" />
+          <ScalarProperty Name="UniqCdLineStatus" ColumnName="UniqCdLineStatus" />
+          <ScalarProperty Name="LineExpDate" ColumnName="LineExpDate" />
+          <ScalarProperty Name="LineEffDate" ColumnName="LineEffDate" />
+          <ScalarProperty Name="PolicyExpDate" ColumnName="PolicyExpDate" />
+          <ScalarProperty Name="PolicyEffDate" ColumnName="PolicyEffDate" />
+          <ScalarProperty Name="ClaimNumber" ColumnName="ClaimNumber" />
+          <ScalarProperty Name="CompanyClaimNumber" ColumnName="CompanyClaimNumber" />
+          <ScalarProperty Name="DateLoss" ColumnName="DateLoss" />
+          <ScalarProperty Name="ClosedDate" ColumnName="ClosedDate" />
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+          <ScalarProperty Name="AccountName" ColumnName="AccountName" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="UniqClaimAssociation" ColumnName="UniqClaimAssociation" />
+          <ScalarProperty Name="IOC" ColumnName="IOC" />
+          <ScalarProperty Name="IOCCode" ColumnName="IOCCode" />
+          <ScalarProperty Name="AttachmentDesc" ColumnName="AttachmentDesc" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityTransaction_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityTransaction_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityTransaction_SP_Result">
+          <ScalarProperty Name="TransactionId" ColumnName="TransactionId" />
+          <ScalarProperty Name="UniqTranshead" ColumnName="UniqTranshead" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="InvoiceNumber" ColumnName="InvoiceNumber" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="DescriptionOf" ColumnName="DescriptionOf" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Balance" ColumnName="Balance" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityBill_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityBill_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityBill_SP_Result">
+          <ScalarProperty Name="BillId" ColumnName="BillId" />
+          <ScalarProperty Name="UniqTranshead" ColumnName="UniqTranshead" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="BillNumber" ColumnName="BillNumber" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="AgencyName" ColumnName="AgencyName" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Balance" ColumnName="Balance" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityCarrierSubmission_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityCarrierSubmission_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityCarrierSubmission_SP_Result">
+          <ScalarProperty Name="CarrierSubmissionId" ColumnName="CarrierSubmissionId" />
+          <ScalarProperty Name="UniqCarrierSubmission" ColumnName="UniqCarrierSubmission" />
+          <ScalarProperty Name="Carrier" ColumnName="Carrier" />
+          <ScalarProperty Name="CarrierSubmission" ColumnName="CarrierSubmission" />
+          <ScalarProperty Name="UniqMarketingSubmission" ColumnName="UniqMarketingSubmission" />
+          <ScalarProperty Name="MarkettingSubmission" ColumnName="MarkettingSubmission" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="LastSubmittedDate" ColumnName="LastSubmittedDate" />
+          <ScalarProperty Name="RequestedPremium" ColumnName="RequestedPremium" />
+          <ScalarProperty Name="SubmissionStatus" ColumnName="SubmissionStatus" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityCertificate_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityCertificate_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityCertificate_SP_Result">
+          <ScalarProperty Name="UniqCertificate" ColumnName="UniqCertificate" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityEvidence_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityEvidence_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityEvidence_SP_Result">
+          <ScalarProperty Name="UniqEvidence" ColumnName="UniqEvidence" />
+          <ScalarProperty Name="UniqEntityClient" ColumnName="UniqEntityClient" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="FormEditionDate" ColumnName="FormEditionDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetCommonLookUp_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetCommonLookUp_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetCommonLookUp_SP_Result">
+          <ScalarProperty Name="CommonLkpId" ColumnName="CommonLkpId" />
+          <ScalarProperty Name="CommonLkpTypeCode" ColumnName="CommonLkpTypeCode" />
+          <ScalarProperty Name="CommonLkpCode" ColumnName="CommonLkpCode" />
+          <ScalarProperty Name="CommonLkpName" ColumnName="CommonLkpName" />
+          <ScalarProperty Name="CommonLkpDescription" ColumnName="CommonLkpDescription" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetEmployeeAgency_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetEmployeeAgency_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetEmployeeAgency_SP_Result">
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="AgencyCode" ColumnName="AgencyCode" />
+          <ScalarProperty Name="AgencyName" ColumnName="AgencyName" />
+          <ScalarProperty Name="UniqBranch" ColumnName="UniqBranch" />
+          <ScalarProperty Name="BranchCode" ColumnName="BranchCode" />
+          <ScalarProperty Name="BranchName" ColumnName="BranchName" />
+          <ScalarProperty Name="UniqDepartment" ColumnName="UniqDepartment" />
+          <ScalarProperty Name="DepartmentCode" ColumnName="DepartmentCode" />
+          <ScalarProperty Name="DepartmentName" ColumnName="DepartmentName" />
+          <ScalarProperty Name="UniqProfitCenter" ColumnName="UniqProfitCenter" />
+          <ScalarProperty Name="ProfitCenterCode" ColumnName="ProfitCenterCode" />
+          <ScalarProperty Name="ProfitCenterName" ColumnName="ProfitCenterName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetClientEmployee_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetClientEmployee_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetClientEmployee_SP_Result">
+          <ScalarProperty Name="ClientId" ColumnName="ClientId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="EmployeeLookupcode" ColumnName="EmployeeLookupcode" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetEmployee_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetEmployee_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetEmployee_SP_Result">
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+          <ScalarProperty Name="JobTitle" ColumnName="JobTitle" />
+          <ScalarProperty Name="InactiveDate" ColumnName="InactiveDate" />
+          <ScalarProperty Name="RoleFlags" ColumnName="RoleFlags" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="IsAdmin" ColumnName="IsAdmin" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityList_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityList_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityList_SP_Result">
+          <ScalarProperty Name="UniqActivityCode" ColumnName="UniqActivityCode" />
+          <ScalarProperty Name="ActivityCode" ColumnName="ActivityCode" />
+          <ScalarProperty Name="ActivityName" ColumnName="ActivityName" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="lookupCode" ColumnName="lookupCode" />
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="ISClosedStatus" ColumnName="ISClosedStatus" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetClientDetails_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetClientDetails_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetClientDetails_SP_Result">
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="LookupCode" ColumnName="LookupCode" />
+          <ScalarProperty Name="NameOf" ColumnName="NameOf" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="StateCode" ColumnName="StateCode" />
+          <ScalarProperty Name="StateName" ColumnName="StateName" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="CountryCode" ColumnName="CountryCode" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="AgencyCode" ColumnName="AgencyCode" />
+          <ScalarProperty Name="AgencyName" ColumnName="AgencyName" />
+          <ScalarProperty Name="PrimaryContactName" ColumnName="PrimaryContactName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityDetails_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityDetails_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityDetails_SP_Result">
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqActivity" ColumnName="UniqActivity" />
+          <ScalarProperty Name="UniqActivityCode" ColumnName="UniqActivityCode" />
+          <ScalarProperty Name="ActivityCode" ColumnName="ActivityCode" />
+          <ScalarProperty Name="DescriptionOf" ColumnName="DescriptionOf" />
+          <ScalarProperty Name="UniqCdPolicyLineType" ColumnName="UniqCdPolicyLineType" />
+          <ScalarProperty Name="CdPolicyLineTypeCode" ColumnName="CdPolicyLineTypeCode" />
+          <ScalarProperty Name="PolicyNumber" ColumnName="PolicyNumber" />
+          <ScalarProperty Name="EffectiveDate" ColumnName="EffectiveDate" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="UniqBranch" ColumnName="UniqBranch" />
+          <ScalarProperty Name="UniqDepartment" ColumnName="UniqDepartment" />
+          <ScalarProperty Name="UniqProfitCenter" ColumnName="UniqProfitCenter" />
+          <ScalarProperty Name="UniqAssociatedItem" ColumnName="UniqAssociatedItem" />
+          <ScalarProperty Name="AssociationType" ColumnName="AssociationType" />
+          <ScalarProperty Name="OwnerName" ColumnName="OwnerName" />
+          <ScalarProperty Name="ClosedDate" ColumnName="ClosedDate" />
+          <ScalarProperty Name="UniqPolicy" ColumnName="UniqPolicy" />
+          <ScalarProperty Name="UniqLine" ColumnName="UniqLine" />
+          <ScalarProperty Name="UniqClaim" ColumnName="UniqClaim" />
+          <ScalarProperty Name="LossDate" ColumnName="LossDate" />
+          <ScalarProperty Name="Policydescription" ColumnName="Policydescription" />
+          <ScalarProperty Name="LineCode" ColumnName="LineCode" />
+          <ScalarProperty Name="LineDescription" ColumnName="LineDescription" />
+          <ScalarProperty Name="ICO" ColumnName="ICO" />
+          <ScalarProperty Name="LineEffectiveDate" ColumnName="LineEffectiveDate" />
+          <ScalarProperty Name="LineExpirationDate" ColumnName="LineExpirationDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityAccount_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityAccount_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityAccount_SP_Result">
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="AgencyCode" ColumnName="AgencyCode" />
+          <ScalarProperty Name="AgencyName" ColumnName="AgencyName" />
+          <ScalarProperty Name="UniqBranch" ColumnName="UniqBranch" />
+          <ScalarProperty Name="BranchCode" ColumnName="BranchCode" />
+          <ScalarProperty Name="BranchName" ColumnName="BranchName" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityEmployee_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityEmployee_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityEmployee_SP_Result">
+          <ScalarProperty Name="UniqEmployee" ColumnName="UniqEmployee" />
+          <ScalarProperty Name="EmployeeLookupcode" ColumnName="EmployeeLookupcode" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqActivity" ColumnName="UniqActivity" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityPolicy_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityPolicy_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityPolicy_SP_Result">
+          <ScalarProperty Name="EmployeeLookUpCode" ColumnName="EmployeeLookUpCode" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="CdPolicyLineTypeCode" ColumnName="CdPolicyLineTypeCode" />
+          <ScalarProperty Name="UniqPolicy" ColumnName="UniqPolicy" />
+          <ScalarProperty Name="PolicyNumber" ColumnName="PolicyNumber" />
+          <ScalarProperty Name="DescriptionOf" ColumnName="DescriptionOf" />
+          <ScalarProperty Name="EffectiveDate" ColumnName="EffectiveDate" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="PolicyStatus" ColumnName="PolicyStatus" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityClaim_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityClaim_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityClaim_SP_Result">
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqClaim" ColumnName="UniqClaim" />
+          <ScalarProperty Name="ClaimCode" ColumnName="ClaimCode" />
+          <ScalarProperty Name="ClaimName" ColumnName="ClaimName" />
+          <ScalarProperty Name="LossDate" ColumnName="LossDate" />
+          <ScalarProperty Name="ReportedDate" ColumnName="ReportedDate" />
+          <ScalarProperty Name="AgencyClaimNumber" ColumnName="AgencyClaimNumber" />
+          <ScalarProperty Name="CompanyClaimNumber" ColumnName="CompanyClaimNumber" />
+          <ScalarProperty Name="ClosedDate" ColumnName="ClosedDate" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityMarketing_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityMarketing_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityMarketing_SP_Result">
+          <ScalarProperty Name="UniqMarketingSubmission" ColumnName="UniqMarketingSubmission" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="UniqAgency" ColumnName="UniqAgency" />
+          <ScalarProperty Name="UniqBranch" ColumnName="UniqBranch" />
+          <ScalarProperty Name="MarketingSubbmission" ColumnName="MarketingSubbmission" />
+          <ScalarProperty Name="LineOfBusiness" ColumnName="LineOfBusiness" />
+          <ScalarProperty Name="EffectiveDate" ColumnName="EffectiveDate" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="LastSubmittedDate" ColumnName="LastSubmittedDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityServices_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityServices_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityServices_SP_Result">
+          <ScalarProperty Name="UniqServiceHead" ColumnName="UniqServiceHead" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="ServiceNumber" ColumnName="ServiceNumber" />
+          <ScalarProperty Name="UniqCdServiceCode" ColumnName="UniqCdServiceCode" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ContractNumber" ColumnName="ContractNumber" />
+          <ScalarProperty Name="InceptionDate" ColumnName="InceptionDate" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityOpportunity_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityOpportunity_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityOpportunity_SP_Result">
+          <ScalarProperty Name="UniqOpportunity" ColumnName="UniqOpportunity" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="OppDesc" ColumnName="OppDesc" />
+          <ScalarProperty Name="TargetedDate" ColumnName="TargetedDate" />
+          <ScalarProperty Name="OwnerName" ColumnName="OwnerName" />
+          <ScalarProperty Name="SalesManager" ColumnName="SalesManager" />
+          <ScalarProperty Name="Stage" ColumnName="Stage" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetActivityLine_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetActivityLine_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetActivityLine_SP_Result">
+          <ScalarProperty Name="UniqLine" ColumnName="UniqLine" />
+          <ScalarProperty Name="UniqPolicy" ColumnName="UniqPolicy" />
+          <ScalarProperty Name="UniqEntity" ColumnName="UniqEntity" />
+          <ScalarProperty Name="PolicyType" ColumnName="PolicyType" />
+          <ScalarProperty Name="PolicyDesc" ColumnName="PolicyDesc" />
+          <ScalarProperty Name="LineCode" ColumnName="LineCode" />
+          <ScalarProperty Name="LineOfBusiness" ColumnName="LineOfBusiness" />
+          <ScalarProperty Name="LineStatus" ColumnName="LineStatus" />
+          <ScalarProperty Name="PolicyNumber" ColumnName="PolicyNumber" />
+          <ScalarProperty Name="UniqCdPolicyLineType" ColumnName="UniqCdPolicyLineType" />
+          <ScalarProperty Name="UniqCdLineStatus" ColumnName="UniqCdLineStatus" />
+          <ScalarProperty Name="IOC" ColumnName="IOC" />
+          <ScalarProperty Name="BillModeCode" ColumnName="BillModeCode" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="EffectiveDate" ColumnName="EffectiveDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="Flags" ColumnName="Flags" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPSyncIntervalMinutes" FunctionName="HIBOutlookModel.Store.HIBOPSyncIntervalMinutes">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPSyncIntervalMinutes_Result">
+          <ScalarProperty Name="IntervalMinutes" ColumnName="IntervalMinutes" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HIBOPGetDeltaSync_SP" FunctionName="HIBOutlookModel.Store.HIBOPGetDeltaSync_SP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HIBOutlookModel.HIBOPGetDeltaSync_SP_Result">
+          <ScalarProperty Name="IPAddress" ColumnName="IPAddress" />
+          <ScalarProperty Name="UserLookupCode" ColumnName="UserLookupCode" />
+          <ScalarProperty Name="SpName" ColumnName="SpName" />
+          <ScalarProperty Name="LastSyncDate" ColumnName="LastSyncDate" />
+          <ScalarProperty Name="IsDeltaFlag" ColumnName="IsDeltaFlag" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

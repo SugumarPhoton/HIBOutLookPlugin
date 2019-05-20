@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3CE5343D-5CD0-4182-BCAC-36862A85AC9A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HIB.Outlook.Model</RootNamespace>
+    <AssemblyName>HIB.Outlook.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activities\Account.cs" />
+    <Compile Include="Activities\ActivityLookupDetails.cs" />
+    <Compile Include="Activities\AddActivity.cs" />
+    <Compile Include="Activities\AddActivityCode.cs" />
+    <Compile Include="Activities\Claim.cs" />
+    <Compile Include="Activities\Line.cs" />
+    <Compile Include="Activities\MasterMarketingSubmission.cs" />
+    <Compile Include="Activities\Opportunities.cs" />
+    <Compile Include="Activities\Policy.cs" />
+    <Compile Include="Activities\Services.cs" />
+    <Compile Include="ActivityAccountDetail.cs" />
+    <Compile Include="ActivityBillInfo.cs" />
+    <Compile Include="ActivityCarrierInfo.cs" />
+    <Compile Include="ActivityCertificateInfo.cs" />
+    <Compile Include="ActivityClaimInfo.cs" />
+    <Compile Include="ActivityClientContactInfo.cs" />
+    <Compile Include="ActivityDetail.cs" />
+    <Compile Include="ActivityEmployee.cs" />
+    <Compile Include="ActivityEvidenceInfo.cs" />
+    <Compile Include="ActivityInfo.cs" />
+    <Compile Include="ActivityLineDetail.cs" />
+    <Compile Include="ActivityLineInfo.cs" />
+    <Compile Include="ActivityAccountInfo.cs" />
+    <Compile Include="ActivityListInfo.cs" />
+    <Compile Include="ActivityLookUpInfo.cs" />
+    <Compile Include="ActivityMarketingInfo.cs" />
+    <Compile Include="ActivityOpportunityInfo.cs" />
+    <Compile Include="ActivityOwnerListDetail.cs" />
+    <Compile Include="ActivityOwnerListInfo.cs" />
+    <Compile Include="ActivityPolicyDetail.cs" />
+    <Compile Include="ActivityPolicyInfo.cs" />
+    <Compile Include="ActivityServiceInfo.cs" />
+    <Compile Include="ActivityTransactionInfo.cs" />
+    <Compile Include="AttachmentInfo.cs" />
+    <Compile Include="AttachmentStatus.cs" />
+    <Compile Include="ClientDetail.cs" />
+    <Compile Include="ClientEmployee.cs" />
+    <Compile Include="ClientEmployeeDetail.cs" />
+    <Compile Include="ClientInfo.cs" />
+    <Compile Include="ActivityCommonLookUpInfo.cs" />
+    <Compile Include="CustomeResponse.cs" />
+    <Compile Include="DeltaSyncObjectInfo.cs" />
+    <Compile Include="EmployeeAgencyInfo.cs" />
+    <Compile Include="EmployeeInfo.cs" />
+    <Compile Include="ErrorLogInfo.cs" />
+    <Compile Include="ExtensionClass.cs" />
+    <Compile Include="FavouriteInfo.cs" />
+    <Compile Include="FileInfo.cs" />
+    <Compile Include="FolderInfo.cs" />
+    <Compile Include="IntervalTimeDetail.cs" />
+    <Compile Include="LogInfo.cs" />
+    <Compile Include="NotificationInfo.cs" />
+    <Compile Include="PolicyTypeInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResultInfo.cs" />
+    <Compile Include="SyncLog.cs" />
+    <Compile Include="SyncParams.cs" />
+    <Compile Include="UserDetailInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,7 @@
+IF EXISTS ( SELECT 'X' FROM SYS.INDEXES WHERE NAME ='HIBOPClientAgencyBranch_NDX1')
+BEGIN
+DROP INDEX HIBOPClientAgencyBranch.HIBOPClientAgencyBranch_NDX1;
+END
+GO
+CREATE NONCLUSTERED INDEX HIBOPClientAgencyBranch_NDX1 ON HIBOPClientAgencyBranch(UniqAgency,UniqBranch) INCLUDE (UniqEntity);
+GO
